@@ -13,27 +13,25 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Bootstrap 4 Github Pages
-email: ""
+title: CS@Illinois Proficiency Exams
 description: >- # this means to ignore newlines until "baseurl:"
-  A Bootstrap 4 start up project for Jekyll and Github Pages
+  Information about CS@Illinois proficiency exams
 #baseurl: "" # the subpath of your site, e.g. /blog
-#url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
+url: https://proficiency.cs.illinois.edu
 
-repository: "nicolas-van/bootstrap-4-github-pages"
+repository: "texne/proficiency.cs.illinois.edu"
 
 # Build settings
 plugins:
   - jekyll-feed
 
-# A list of the pages to display in the navigation bar
-header_pages:
+exams:
+  - 101
+  - 105
+  - 125
+  - 173
+  - 225
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
 exclude:
   - Gemfile
   - Gemfile.lock
