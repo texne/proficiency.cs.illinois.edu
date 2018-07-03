@@ -11,7 +11,7 @@
         {%- for exam in site.exams -%}
         {% capture examName %}{{ exam }}{% endcapture %}
         <li class="nav-item">
-          <a class="nav-link" href="#{{ examName  }}">CS {{ examName }}</a>
+          <a class="nav-link" href="#CS{{ examName }}">CS {{ examName }}</a>
         </li>
         {% endfor -%}
       </ul>
