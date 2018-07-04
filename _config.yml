@@ -2,18 +2,13 @@ title: CS@Illinois Proficiency Exams
 description: >- # this means to ignore newlines until "baseurl:"
   Information about CS@Illinois proficiency exams
 url: https://texne.github.io/proficiency.cs.illinois.edu/
-
 repository: "texne/proficiency.cs.illinois.edu"
-
 exams:
   - 101
   - 105
   - 125
   - 173
   - 225
-
-include: [ 'courses' ]
-
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -23,8 +18,7 @@ exclude:
   - Rakefile
   - README.md
   - package-lock.json
-
+  - vendor
 markdown: kramdown
-
 kramdown:
   auto_ids: false
