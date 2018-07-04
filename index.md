@@ -47,6 +47,18 @@ and
 <!--- -->
 * Wednesday 8/29/2018 @ 5:30&ndash;10PM in [Siebel 1404](https://goo.gl/fQwnq2).
 
+Note that most proficiency exams are three hours in length.
+<!--- -->
+The extra time is provided for students that are entitled to take extra time or
+are attempting multiple exams.
+<!--- -->
+If you are only taking one exam and are not taking extra time you should be
+finished by 8:30PM.
+
+**You must arrive on time to take a proficiency exam.**
+<!--- -->
+If you arrive late you will not be seated.
+
 ### General Restrictions
 
 In certain cases you may not be eligible to take a proficiency exam.
@@ -138,7 +150,7 @@ Make sure to bring a copy of your DRES accommodation letter.
 <!--- -->
 If you need further accommodations or to take the proficiency exam in the DRES
 testing center, please contact
-[`proficiency-exams@lists.cs.illinois.edu`](mailto:proficiency-exams@lists.cs.illinois.edu) to make the necessary arrangements.
+[<code>proficiency&#8209;exams@lists.cs.illinois.edu</code>](mailto:proficiency-exams@lists.cs.illinois.edu) to make the necessary arrangements.
 <!--- -->
 Include a copy of your DRES letter documenting your accommodations.
 
