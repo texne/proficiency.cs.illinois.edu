@@ -19,9 +19,9 @@ task :test => [:build] do
     :check_img_http => true,
     :check_opengraph => true,
     :enforce_https => true,
-    :cache => {
-      :timeframe => '6w'
-    }
+    :typhoeus => {
+      :ssl_verifypeer => false,
+    },
   }
   begin
     HTMLProofer.check_directory("_site", options).run
