@@ -16,4 +16,4 @@ suggest using the [`rubenv`](https://github.com/rbenv/rbenv) Ruby version
 manager. Then run `bundle install` to install the project dependencies.
 
 At that point you can run `bundle exec rake serve` to launch a local version of the
-website on port 4000 or `bundle exec rake test` to test for dead links and other HTML problems.
+website on port 4000 or `bundle exec rake test` to test for dead links and other problems.
