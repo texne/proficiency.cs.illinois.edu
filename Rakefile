@@ -23,11 +23,7 @@ task :test => [:build] do
       :ssl_verifypeer => false,
     },
   }
-  begin
-    HTMLProofer.check_directory("_site", options).run
-  rescue => msg
-    puts "#{msg}"
-  end
+  HTMLProofer.check_directory("_site", options).run
 end
 
 task :default => [:test]
