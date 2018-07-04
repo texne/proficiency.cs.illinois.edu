@@ -15,7 +15,8 @@ proficiency exams.
 
 ## Overview
 
-Proficiency exams are similar to a comprehensive final exam.
+Proficiency exams are similar in topic coverage and scope to a comprehensive
+final exam.
 <!--- -->
 They are intended to ensure that you are well-prepared for later courses in the
 same subject area.
@@ -39,9 +40,10 @@ whether the proficiency exam you want to take is written or computer-based.
 
 ### <a name="next" class="anchor"></a> Next Proficiency Exam Dates and Times
 
-**For Fall 2018 written proficiency exams will be held:**
+For Fall 2018 written proficiency exams will be held on:
 
-* Saturday 8/25/2018 @ 5:30&ndash;10PM in [Siebel 1404](https://goo.gl/fQwnq2).
+* Saturday 8/25/2018 @ 5:30&ndash;10PM in [Siebel 1404](https://goo.gl/fQwnq2),
+and
 <!--- -->
 * Wednesday 8/29/2018 @ 5:30&ndash;10PM in [Siebel 1404](https://goo.gl/fQwnq2).
 
@@ -63,8 +65,7 @@ received a grade for.**
 <!--- -->
 This is true even if it was a failing grade.
 <!--- -->
-1. **You may only take each proficiency exam once per year and no more two times
-total.**
+1. **You may only take each proficiency exam once per year.**
 <!--- -->
 If you sit for multiple exams within the same year only the first score
 will be considered.
@@ -79,6 +80,11 @@ later courses to fulfill your degree requirements.
 required to satisfy other degree programs.**
 <!--- -->
 Please contact the CS academic office to obtain permission if needed.
+
+Other course-specific restrictions may also apply.
+<!--- -->
+Please consult the [information below specific to the proficiency exams you plan
+to take](#courses) for more details.
 
 ### Taking Your Proficiency Exam
 
@@ -128,9 +134,13 @@ If you are entitled to up to 50% extra time to complete the exam but can
 complete it in a typical testing environment, please just report at one or both
 of the [usual dates and times](#next).
 <!--- -->
+Make sure to bring a copy of your DRES accommodation letter.
+<!--- -->
 If you need further accommodations or to take the proficiency exam in the DRES
 testing center, please contact
 [`proficiency-exams@lists.cs.illinois.edu`](mailto:proficiency-exams@lists.cs.illinois.edu) to make the necessary arrangements.
+<!--- -->
+Include a copy of your DRES letter documenting your accommodations.
 
 ## <a name="courses" class="anchor"></a> Course-Specific Information
 
