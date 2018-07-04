@@ -13,7 +13,7 @@ proficiency exams.
 <!--- -->
 </p>
 
-## Overview
+## <a name="overview" class="anchor"></a> Overview
 
 Proficiency exams are similar in topic coverage and scope to a comprehensive
 final exam.
@@ -26,7 +26,7 @@ Passing criteria are at the discretion of each course instructor.
 But in general an exam score that would correspond to a course grade of a B- is
 considered a passing score.
 
-### Scheduling
+### <a name="scheduling" class="anchor"></a> Scheduling
 
 Written proficiency exams are generally offered at two times near the beginning of the
 fall and spring semesters.
@@ -59,7 +59,7 @@ finished by 8:30PM.
 <!--- -->
 If you arrive late you will not be seated.
 
-### General Restrictions
+### <a name="restrictions" class="anchor"></a> General Restrictions
 
 In certain cases you may not be eligible to take a proficiency exam.
 <!--- -->
@@ -101,7 +101,7 @@ Other course-specific restrictions may also apply.
 Please consult the [information below specific to the proficiency exams you plan
 to take](#courses) for more details.
 
-### Taking Your Proficiency Exam
+### <a name="taking" class="anchor"></a> Taking Your Proficiency Exam
 
 To take a written proficiency exam simply show up at one of the scheduled exam
 times.
@@ -121,7 +121,7 @@ However, each exam period finishes promptly at the times [indicated
 above](#next), so you will need to work quickly to complete multiple exams in
 the time allotted.
 
-### Receiving Your Results
+### <a name="results" class="anchor"></a> Receiving Your Results
 
 If the exam is written, it may take several days before your exam is graded.
 <!--- -->
@@ -131,7 +131,7 @@ supervising the exam.
 If the exam is given in the [CBTF](https://cbtf.engr.illinois.edu/) you may receive your results
 immediately.
 
-### Information for Students with Disabilities
+### <a name="disabilities" class="anchor"></a> Information for Students with Disabilities
 
 We will accommodate any disabilities that have been registered with the [Division
 of Disability Resources and Educational Services
@@ -155,6 +155,16 @@ testing center, please contact
 [<code>proficiency&#8209;exams@lists.cs.illinois.edu</code>](mailto:proficiency-exams@lists.cs.illinois.edu) to make the necessary arrangements.
 <!--- -->
 Include a copy of your DRES letter documenting your accommodations.
+
+### <a name="questions" class="anchor"></a> Questions or Concerns
+
+If you have questions not covered here, or on the course-specific pages below,
+please start a conversation on the [CS Advising Piazza
+Forum](https://piazza.com/illinois/other/csadvising/home).
+<!--- -->
+That is the best way to have your questions answered quickly.
+<!--- -->
+Please avoid contacting the course instructors directly.
 
 ## <a name="courses" class="anchor"></a> Course-Specific Information
 
