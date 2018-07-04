@@ -1,5 +1,9 @@
 require 'html-proofer'
 
+task :build do
+  sh "bundle exec jekyll build"
+end
+
 task :serve do
   sh "bundle exec jekyll serve"
 end
