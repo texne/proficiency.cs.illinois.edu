@@ -18,8 +18,4 @@ exclude:
   - node_modules
   - update_bootstrap.sh
 
-plugins:
-  - jekyll-font-awesome-sass
-
-font-awesome:
-    assets: true
+markdown: kramdown
