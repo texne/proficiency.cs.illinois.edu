@@ -2,3 +2,14 @@ language: ruby
 script:
   - bundle exec rake test
 cache: bundler
+cache:
+  directories:
+    - $TRAVIS_BUILD_DIR/tmp/.htmlproofer
+env:
+  global:
+    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+addons:
+  apt:
+    packages:
+      - libcurl4-openssl-dev
+sudo: false

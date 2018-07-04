@@ -22,5 +22,5 @@ manager.
 <!--- -->
 Then run `bundle install` to install the project dependencies.
 
-At that point you can run `rake serve` to launch a local version of the
-website on port 4000 or `rake test` to test for dead links and other problems.
+At that point you can run `bundle exec rake serve` to launch a local version of the
+website on port 4000 or `bundle exec rake test` to test for dead links and other problems.
