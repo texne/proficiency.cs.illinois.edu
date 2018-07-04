@@ -1,5 +1,4 @@
 language: ruby
 script:
-  - rake build
-  - rake test
+  - bundle exec rake test
 cache: bundler
