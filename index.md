@@ -32,7 +32,7 @@ Written proficiency exams are generally offered at two times near the beginning 
 fall and spring semesters.
 <!--- -->
 Courses that give computer-based proficiency exams in the [Computer-Based
-Testing Facility](https://cbtf.engr.illinois.edu/) generally offer their exams
+Testing Facility (CBTF)](https://cbtf.engr.illinois.edu/) generally offer their exams
 during a window of time near the beginning of the fall and spring semesters.
 <!--- -->
 Please consult the [course-specific information](#courses) below to determine
@@ -83,7 +83,7 @@ If you sit for multiple exams within the same year only the first score
 will be considered.
 <!--- -->
 This restriction applies both to written proficiency exams and to ones given in
-the [Computer-Based Testing Facility](https://cbtf.engr.illinois.edu/).
+the [CBTF](https://cbtf.engr.illinois.edu/).
 <!--- -->
 1. **You may not take a proficiency exam if you have taken more than one later
 course in the same area.**
@@ -107,7 +107,7 @@ To take a written proficiency exam simply show up at one of the scheduled exam
 times.
 <!--- -->
 To take a computer-based proficiency exam you must schedule a time with the
-[Computer-Based Testing Facility](https://cbtf.engr.illinois.edu/).
+[CBTF](https://cbtf.engr.illinois.edu/).
 <!--- -->
 You must bring your University of Illinois ID to the proficiency exam.
 <!--- -->
@@ -128,8 +128,7 @@ If the exam is written, it may take several days before your exam is graded.
 You will receive your proficiency exam results directly from the instructor
 supervising the exam.
 <!--- -->
-If the exam is given in the [Computer-Based Testing
-Facility](https://cbtf.engr.illinois.edu/) you may receive your results
+If the exam is given in the [CBTF](https://cbtf.engr.illinois.edu/) you may receive your results
 immediately.
 
 ### Information for Students with Disabilities
@@ -161,22 +160,12 @@ Include a copy of your DRES letter documenting your accommodations.
 
 Please review the information below for any proficiency exams you plan to take.
 
-### <a name="CS101" class="anchor"></a>[CS 101: Introduction to Computing for Engineering and Science](https://relate.cs.illinois.edu/course/cs101-sp18/)
+{% include_relative _includes/cs101.md %}
 
-{% include_relative courses/cs101.md %}
+{% include_relative _includes/cs105.md %}
 
-### <a name="CS105" class="anchor"></a>[CS 105: Introduction to Computing for Non-Technical Majors](https://courses.engr.illinois.edu/cs105/sp2018/)
+{% include_relative _includes/cs125.md %}
 
-{% include_relative courses/cs105.md %}
+{% include_relative _includes/cs173.md %}
 
-### <a name="CS125" class="anchor"></a>[CS 125: Introduction to Computer Science](https://cs125.cs.illinois.edu/)
-
-{% include_relative courses/cs125.md %}
-
-### <a name="CS173" class="anchor"></a>[CS 173: Discrete Structures](https://courses.engr.illinois.edu/cs173/sp2018/)
-
-{% include_relative courses/cs173.md %}
-
-### <a name="CS225" class="anchor"></a>[CS 225: Data Structures](https://courses.engr.illinois.edu/cs225/sp2018/)
-
-{% include_relative courses/cs225.md %}
+{% include_relative _includes/cs225.md %}

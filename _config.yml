@@ -12,6 +12,8 @@ exams:
   - 173
   - 225
 
+include: [ 'courses' ]
+
 exclude:
   - Gemfile
   - Gemfile.lock
