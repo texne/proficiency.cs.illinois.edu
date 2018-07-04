@@ -77,10 +77,13 @@ received a grade for.**
 <!--- -->
 This is true even if it was a failing grade.
 <!--- -->
-1. **You may only take each proficiency exam once per year.**
+1. **You may only take each proficiency exam once per semester.**
 <!--- -->
 If you sit for multiple exams within the same year only the first score
 will be considered.
+<!--- -->
+This restriction applies both to written proficiency exams and to ones given in
+the [Computer-Based Testing Facility](https://cbtf.engr.illinois.edu/).
 <!--- -->
 1. **You may not take a proficiency exam if you have taken more than one later
 course in the same area.**
