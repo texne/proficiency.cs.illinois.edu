@@ -1,13 +1,97 @@
-// This is the place to place Bootstrap's variables overrides.
-// As example you can start by importing the _variables.scss file from one of the
-// theme provided by https://bootswatch.com .
+$fa-font-path: "fonts/font-awesome/";
+@import 'font-awesome/font-awesome';
 
+$white:  #fff;
+$gray-100: #f8f9fa;
+$gray-200: #e9ecef;
+$gray-300: #dee2e6;
+$gray-400: #ced4da;
+$gray-500: #adb5bd;
+$gray-600: #868e96;
+$gray-700: #495057;
+$gray-800: #343a40;
+$gray-900: #212529;
+$black:  #000;
 
-// Some customization of the container class to have a better display in the guide.
-// Don't hesitate to remove it to have a standard Bootstrap behavior
-$container-max-widths: (
-  sm: 540px,
-  md: 640px,
-  lg: 690px,
-  xl: 720px
-) !default;
+$grays: (
+  100: $gray-100,
+  200: $gray-200,
+  300: $gray-300,
+  400: $gray-400,
+  500: $gray-500,
+  600: $gray-600,
+  700: $gray-700,
+  800: $gray-800,
+  900: $gray-900,
+);
+
+$blue:    #007bff;
+$indigo:  #6610f2;
+$purple:  #6f42c1;
+$pink:    #e83e8c;
+$red:     #dc3545;
+$orange:  #fd7e14;
+$yellow:  #ffc107;
+$green:   #28a745;
+$teal:    #20c997;
+$cyan:    #17a2b8;
+$illinois-orange: #e84a27;
+$illinois-blue: #13294b;
+
+$colors: (
+  "blue": $blue,
+  "indigo": $indigo,
+  "purple": $purple,
+  "pink": $pink,
+  "red": $red,
+  "orange": $orange,
+  "yellow": $yellow,
+  "green": $green,
+  "teal": $teal,
+  "cyan": $cyan,
+  "white": $white,
+  "gray": $gray-600,
+  "gray-dark": $gray-800,
+  "illinois-orange": $illinois-orange,
+  "illinois-blue": $illinois-blue,
+);
+
+$theme-colors: (
+  primary: $illinois-blue,
+  secondary: $gray-600,
+  success: $green,
+  info: $cyan,
+  warning: $yellow,
+  danger: $red,
+  light: $gray-100,
+  dark: $gray-800,
+  illinois-orange: $illinois-orange,
+  illinois-blue: $illinois-blue,
+);
+
+$link-color: lighten($illinois-blue, 40%);
+
+$font-family-sans-serif: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+
+$font-size-base: 1.25rem !default; // Assumes the browser default, typically `16px`
+$font-size-lg: 1.5rem !default;
+$font-size-sm: 1rem !default;
+
+$h1-font-size: 2.5rem !default;
+$h2-font-size: 2rem !default;
+$h3-font-size: 1.75rem !default;
+$h4-font-size: 1.5rem !default;
+$h5-font-size: 1.25rem !default;
+$h6-font-size: 1.1rem !default;
+
+$lead-font-size: 1.5rem !default;
+$lead-font-weight: 300 !default;
+
+$headings-font-family: $font-family-sans-serif;
+$headings-font-weight: 700;
+
+$navbar-light-color: rgba($illinois-orange,.5);
+$navbar-light-hover-color: rgba($illinois-orange,.7);
+$navbar-light-active-color: rgba($illinois-orange,.9);
+$navbar-light-disabled-color: rgba($illinois-orange,.3);
+$navbar-light-toggler-border-color: rgba($illinois-orange,.1);

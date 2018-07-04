@@ -1,5 +1,4 @@
 ---
-layout: page
 title: CS@Illinois Proficiency Exams
 ---
 

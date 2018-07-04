@@ -1,3 +1,63 @@
-// This is the place to place Bootstrap-related CSS customizations.
-// As example you can start by importing the _bootswatch.scss file from one of the
-// theme provided by https://bootswatch.com .
+body {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  position: relative;
+}
+
+b, strong {
+  font-weight: bold;
+}
+main {
+  word-wrap: break-word;
+}
+nav.navbar {
+  font-size: 1.0rem;
+  @include media-breakpoint-up(md) {
+    font-size: 1.1rem;
+  }
+  @include media-breakpoint-up(lg) {
+    font-size: 1.25rem;
+  }
+  .navbar-brand {
+    font-size: 0.9rem;
+    @include media-breakpoint-up(md) {
+      font-size: 1.0rem;
+    }
+    @include media-breakpoint-up(lg) {
+      font-size: 1.1rem;
+    }
+    font-weight: bold;
+  }
+  font: {
+    family: $font-family-sans-serif;
+  }
+  border: {
+    bottom: 2px solid $illinois-orange;
+  }
+  a.nav-link {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    @include media-breakpoint-up(md) {
+      padding-top: 0.5rem;
+      padding-bottom: 0.5rem;
+    }
+  }
+}
+a.anchor {
+  display: block;
+  position: relative;
+  top: -100px;
+  &#top {
+    top: -120px;
+  }
+  visibility: hidden;
+}
+a.external:after {
+  font-family: "FontAwesome";
+  font-size: 0.7em;
+  margin-left: 0.3em;
+  content: "\f08e";
+}
+.underline {
+  border-bottom: 1px solid $gray-500;
+}
