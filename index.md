@@ -79,7 +79,7 @@ This is true even if it was a failing grade.
 <!--- -->
 1. **You may only take each proficiency exam once per semester.**
 <!--- -->
-If you sit for multiple exams within the same year only the first score
+If you sit for multiple exams within the same semester only the first score
 will be considered.
 <!--- -->
 This restriction applies both to written proficiency exams and to ones given in
