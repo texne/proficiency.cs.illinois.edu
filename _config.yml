@@ -1,7 +1,7 @@
 title: CS@Illinois Proficiency Exams
 description: >- # this means to ignore newlines until "baseurl:"
   Information about CS@Illinois proficiency exams
-url: https://texne.github.io/proficiency.cs.illinois.edu/
+url: https://proficiency.cs.illinois.edu/
 repository: "texne/proficiency.cs.illinois.edu"
 exams:
   - 101
