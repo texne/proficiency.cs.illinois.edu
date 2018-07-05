@@ -88,6 +88,9 @@ the [CBTF](https://cbtf.engr.illinois.edu/).
 1. **You may not take a proficiency exam if you have taken more than one later
 course in the same area.**
 <!--- -->
+For example, you may not take the CS 173 Proficiency Exam if you have already
+taken CS 225 and CS 374.
+<!--- -->
 Instead of taking the proficiency exam, you may be required to substitute other
 later courses to fulfill your degree requirements.
 <!--- -->
