@@ -8,6 +8,9 @@ example. Files are in
 [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 format with [Kramdown](https://kramdown.gettalong.org/) extensions.
 
+Note that there is no need to file pull requests unless you want a review for some reason.
+Feel free to just commit directly to master.
+
 ## Building Locally
 
 To build and examine the site locally, you need [Ruby
