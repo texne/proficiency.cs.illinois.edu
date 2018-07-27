@@ -1,14 +1,14 @@
 ---
-title: CS@Illinois Proficiency Exams
+title: Illinois Computer Science Proficiency Exams
 ---
 
 <p class="lead" markdown="1">
 <!--- -->
-If you have already mastered the material covered in certain CS@Illinois
+If you have already mastered the material covered in certain Illinois Computer Science 
 courses, you may receive credit and satisfy prerequisites by taking a
 *proficiency exam*.
 <!--- -->
-Here you will find details about how to prepare and sign up for CS@Illinois
+Here you will find details about how to prepare and sign up for Illinois Computer Science 
 proficiency exams.
 <!--- -->
 </p>
@@ -94,7 +94,7 @@ taken CS 225 and CS 374.
 Instead of taking the proficiency exam, you may be required to substitute other
 later courses to fulfill your degree requirements.
 <!--- -->
-1. **Graduate students generally may only take CS@Illinois proficiency exams when
+1. **Graduate students generally may only take Illinois Computer Science proficiency exams when
 required to satisfy other degree programs.**
 <!--- -->
 Please contact the CS academic office to obtain permission if needed.
