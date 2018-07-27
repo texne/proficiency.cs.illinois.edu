@@ -1,5 +1,5 @@
 ---
-title: Illinois Computer Science Proficiency Exams
+title: Illinois CS Proficiency Exams
 ---
 
 <p class="lead" markdown="1">
@@ -8,7 +8,7 @@ If you have already mastered the material covered in certain Illinois Computer S
 courses, you may receive credit and satisfy prerequisites by taking a
 *proficiency exam*.
 <!--- -->
-Here you will find details about how to prepare and sign up for Illinois Computer Science 
+Here you will find details about how to prepare and sign up for Illinois CS
 proficiency exams.
 <!--- -->
 </p>
