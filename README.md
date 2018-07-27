@@ -1,4 +1,4 @@
-# CS@Illinois Proficiency Exam Website
+# Illinois CS Proficiency Exam Website
 
 [![Build Status](https://travis-ci.org/texne/proficiency.cs.illinois.edu.svg?branch=master)](https://travis-ci.org/texne/proficiency.cs.illinois.edu)
 
