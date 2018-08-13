@@ -89,7 +89,7 @@ the [CBTF](https://cbtf.engr.illinois.edu/).
 course in the same area.**
 <!--- -->
 For example, you may not take the CS 173 Proficiency Exam if you have already
-taken CS 225 and CS 374.
+taken *both* CS 225 and CS 374, since they constitute two courses in the same area.
 <!--- -->
 Instead of taking the proficiency exam, you may be required to substitute other
 later courses to fulfill your degree requirements.
