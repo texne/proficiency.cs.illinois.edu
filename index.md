@@ -38,7 +38,7 @@ during a window of time near the beginning of the fall and spring semesters.
 Please consult the [course-specific information](#courses) below to determine
 whether the proficiency exam you want to take is written or computer-based.
 
-### <a name="next" class="anchor"></a> Next Proficiency Exam Dates and Times
+#### <a name="next" class="anchor"></a> Next Written Proficiency Exam Dates and Times
 
 For Fall 2018 written proficiency exams will be held on:
 
@@ -58,6 +58,22 @@ finished by 8:30PM.
 **You must arrive on time to take a proficiency exam.**
 <!--- -->
 If you arrive late you will not be seated.
+
+#### <a name="next-cbtf" class="anchor"></a> Next Computer-Based Proficiency Exam Dates and Times
+
+The [Computer-Based Testing Facility (CBTF)](https://cbtf.engr.illinois.edu/) has opened the
+following times for proficiency examinations a the beginning of the Fall 2018 semester:
+
+* Wednesday August 22nd through Friday August 24th, 1&ndash;4PM, [Grainger Library](https://goo.gl/QuNQ9V)
+<!--- -->
+* Sunday August 26th, 1&ndash;4PM, [Digital Computer Laboratory (DCL)](https://goo.gl/5jo3wn) L520
+<!--- -->
+* Tuesday August 28th through Thursday August 30th, 10AM&ndash;10AM, [Grainger Library](https://goo.gl/QuNQ9V)
+<!--- -->
+* Friday August 31st 10AM&ndash;6PM, [Grainger Library](https://goo.gl/QuNQ9V)
+
+Please refer to the course-specific information below for instructions on how to sign up
+to take a proficiency exam in the CBTF.
 
 ### <a name="restrictions" class="anchor"></a> General Restrictions
 
