@@ -4,7 +4,7 @@ title: Illinois CS Proficiency Exams
 
 <p class="lead" markdown="1">
 <!--- -->
-If you have already mastered the material covered in certain Illinois Computer Science 
+If you have already mastered the material covered in certain Illinois Computer Science
 courses, you may receive credit and satisfy prerequisites by taking a
 *proficiency exam*.
 <!--- -->
@@ -21,7 +21,7 @@ final exam.
 They are intended to ensure that you are well-prepared for later courses in the
 same subject area.
 <!--- -->
-Passing criteria are at the discretion of each course instructor.
+**Passing criteria are at the discretion of each course instructor.**
 <!--- -->
 But in general an exam score that would correspond to a course grade of a B- is
 considered a passing score.
@@ -40,20 +40,21 @@ whether the proficiency exam you want to take is written or computer-based.
 
 #### <a name="next" class="anchor"></a> Next Written Proficiency Exam Dates and Times
 
-For Fall 2018 written proficiency exams will be held on:
+For Spring 2019 written proficiency exams will be held on:
 
-* Saturday 8/25/2018 @ 5:30&ndash;10PM in [Siebel 1404](https://goo.gl/fQwnq2),
+* Tuesday 1/15/2019 @ 7&ndash;10PM in [Siebel 1404](https://goo.gl/fQwnq2),
 and
 <!--- -->
-* Wednesday 8/29/2018 @ 5:30&ndash;10PM in [Siebel 1404](https://goo.gl/fQwnq2).
+* Wednesday 1/16/2019 @ 7&ndash;10PM in [Siebel 1404](https://goo.gl/fQwnq2).
 
 Note that most proficiency exams are three hours in length.
 <!--- -->
-The extra time is provided for students that are entitled to take extra time or
-are attempting multiple exams.
+If you need extra time, please make arrangements to take the exam at
 <!--- -->
-If you are only taking one exam and are not taking extra time you should be
-finished by 8:30PM.
+[DRES](https://www.disability.illinois.edu/).
+<!--- -->
+If you would like to take multiple exams, please attend both written exam
+sessions.
 
 **You must arrive on time to take a proficiency exam.**
 <!--- -->
@@ -61,19 +62,26 @@ If you arrive late you will not be seated.
 
 #### <a name="next-cbtf" class="anchor"></a> Next Computer-Based Proficiency Exam Dates and Times
 
+Information about Spring 2019 CBTF proficiency exams will be posted shortly.
+<!--- -->
+**Note, however, that computerized testing will begin in December 2018.**
+<!--- -->
+If you take and pass your proficiency exam before the start of the Spring 2019
+semester this help you enroll in CS courses that are enforcing prerequisites,
+and generally aid your spring course planning and registration process.
+
+<!---
 The [Computer-Based Testing Facility (CBTF)](https://cbtf.engr.illinois.edu/) has opened the
 following times for proficiency examinations a the beginning of the Fall 2018 semester:
 
 * Wednesday August 22nd through Friday August 24th, 1&ndash;4PM, [Grainger Library](https://goo.gl/QuNQ9V)
-<!--- -->
 * Sunday August 26th, 1&ndash;4PM, [Digital Computer Laboratory (DCL)](https://goo.gl/5jo3wn) L520
-<!--- -->
 * Tuesday August 28th through Thursday August 30th, 10AM&ndash;10AM, [Grainger Library](https://goo.gl/QuNQ9V)
-<!--- -->
 * Friday August 31st 10AM&ndash;6PM, [Grainger Library](https://goo.gl/QuNQ9V)
 
 Please refer to the course-specific information below for instructions on how to sign up
 to take a proficiency exam in the CBTF.
+-->
 
 ### <a name="restrictions" class="anchor"></a> General Restrictions
 
