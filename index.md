@@ -75,6 +75,14 @@ following times for proficiency examinations at the end of the Fall 2018 semeste
 
 * Saturday December 1st through Monday December 10th, [Grainger Library](https://goo.gl/QuNQ9V)
 
+**Note that we will do another round of computerized tests at the beginning of
+the Spring 2019 semester.**
+<!--- -->
+But you are encouraged to take your proficiency exam now if you are prepared.
+<!--- -->
+The earlier you take it, the earlier the CS advising staff can provide you with
+overrides so that you can register for courses that require that prerequisite.
+
 Please refer to the course-specific information below for instructions on how to sign up
 to take a proficiency exam in the CBTF.
 
