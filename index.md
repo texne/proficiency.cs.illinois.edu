@@ -70,18 +70,13 @@ If you take and pass your proficiency exam before the start of the Spring 2019
 semester this help you enroll in CS courses that are enforcing prerequisites,
 and generally aid your spring course planning and registration process.
 
-<!---
 The [Computer-Based Testing Facility (CBTF)](https://cbtf.engr.illinois.edu/) has opened the
-following times for proficiency examinations a the beginning of the Fall 2018 semester:
+following times for proficiency examinations at the end of the Fall 2018 semester:
 
-* Wednesday August 22nd through Friday August 24th, 1&ndash;4PM, [Grainger Library](https://goo.gl/QuNQ9V)
-* Sunday August 26th, 1&ndash;4PM, [Digital Computer Laboratory (DCL)](https://goo.gl/5jo3wn) L520
-* Tuesday August 28th through Thursday August 30th, 10AM&ndash;10AM, [Grainger Library](https://goo.gl/QuNQ9V)
-* Friday August 31st 10AM&ndash;6PM, [Grainger Library](https://goo.gl/QuNQ9V)
+* Saturday December 1st through Monday December 10th, [Grainger Library](https://goo.gl/QuNQ9V)
 
 Please refer to the course-specific information below for instructions on how to sign up
 to take a proficiency exam in the CBTF.
--->
 
 ### <a name="restrictions" class="anchor"></a> General Restrictions
 
