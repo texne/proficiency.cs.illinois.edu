@@ -74,6 +74,8 @@ The [Computer-Based Testing Facility (CBTF)](https://cbtf.engr.illinois.edu/) ha
 following times for proficiency examinations at the end of the Fall 2018 semester:
 
 * Saturday December 1st through Monday December 10th, [Grainger Library](https://goo.gl/QuNQ9V)
+<!--- -->
+* Thursday December 13th through Thursday December 20th, **CS 125 only**, [Grainger Library](https://goo.gl/QuNQ9V)
 
 **Note that we will do another round of computerized tests at the beginning of
 the Spring 2019 semester.**
