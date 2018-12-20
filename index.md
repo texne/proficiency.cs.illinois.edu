@@ -62,28 +62,31 @@ If you arrive late you will not be seated.
 
 #### <a name="next-cbtf" class="anchor"></a> Next Computer-Based Proficiency Exam Dates and Times
 
-Information about Spring 2019 CBTF proficiency exams will be posted shortly.
-<!--- -->
-**Note, however, that computerized testing will begin in December 2018.**
+**Computerized testing began in December 2018.**
 <!--- -->
 If you take and pass your proficiency exam before the start of the Spring 2019
 semester this help you enroll in CS courses that are enforcing prerequisites,
 and generally aid your spring course planning and registration process.
 
 The [Computer-Based Testing Facility (CBTF)](https://cbtf.engr.illinois.edu/) has opened the
-following times for proficiency examinations at the end of the Fall 2018 semester:
+following times for proficiency examinations at the beginning of the Spring 2019
+semester:
 
-* Saturday December 1st through Monday December 10th, [Grainger Library](https://goo.gl/QuNQ9V)
-<!--- -->
-* Thursday December 13th through Thursday December 20th, **CS 125 only**, [Grainger Library](https://goo.gl/QuNQ9V)
+* Friday 1/11/2019, Saturday 1/12/2019, Monday 1/14/2019, [Grainger Library](https://goo.gl/QuNQ9V)
 
-**Note that we will do another round of computerized tests at the beginning of
-the Spring 2019 semester.**
+Note that the CBTF scheduler may not begin accepting reservations until
+1/11/2019.
 <!--- -->
-But you are encouraged to take your proficiency exam now if you are prepared.
-<!--- -->
-The earlier you take it, the earlier the CS advising staff can provide you with
-overrides so that you can register for courses that require that prerequisite.
+But it should be easy to find a time to take your exam on one of the first two
+days.
+
+<!--**Note that we will do another round of computerized tests at the beginning of
+<!--the Spring 2019 semester.**
+<!--<!--- -->
+<!--But you are encouraged to take your proficiency exam now if you are prepared.
+<!--<!--- -->
+<!--The earlier you take it, the earlier the CS advising staff can provide you with
+<!--overrides so that you can register for courses that require that prerequisite. -->
 
 Please refer to the course-specific information below for instructions on how to sign up
 to take a proficiency exam in the CBTF.
