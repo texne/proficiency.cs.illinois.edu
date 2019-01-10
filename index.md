@@ -179,17 +179,13 @@ to notify them of your disability and register for support services.
 **If you are new to the University of Illinois you should begin this process as
 soon as you are admitted.**
 
-If you are entitled to up to 50% extra time to complete the exam but can
-complete it in a typical testing environment, please just report at one or both
-of the [usual dates and times](#next).
+You should make arrangements to take your proficiency exam in the DRES testing
+center by contacting
 <!--- -->
-Make sure to bring a copy of your DRES accommodation letter.
+[<code>proficiency&#8209;exams@lists.cs.illinois.edu</code>](mailto:proficiency-exams@lists.cs.illinois.edu).
 <!--- -->
-If you need further accommodations or to take the proficiency exam in the DRES
-testing center, please contact
-[<code>proficiency&#8209;exams@lists.cs.illinois.edu</code>](mailto:proficiency-exams@lists.cs.illinois.edu) to make the necessary arrangements.
-<!--- -->
-Include a copy of your DRES letter documenting your accommodations.
+In your email be sure to indicate which proficiency exam (or exams) you wish to
+take, and include a copy of your DRES letter documenting your accommodations.
 
 ### <a name="questions" class="anchor"></a> Questions or Concerns
 
