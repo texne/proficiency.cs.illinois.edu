@@ -72,7 +72,7 @@ The [Computer-Based Testing Facility (CBTF)](https://cbtf.engr.illinois.edu/) ha
 following times for proficiency examinations at the beginning of the Spring 2019
 semester:
 
-* Friday 1/11/2019, Saturday 1/12/2019, Monday 1/14/2019, [Grainger Library](https://goo.gl/QuNQ9V)
+* Friday 1/11/2019, Saturday 1/12/2019, Tuesday 1/15/2019, [Grainger Library](https://goo.gl/QuNQ9V)
 
 Note that the CBTF scheduler may not begin accepting reservations until
 1/11/2019.
