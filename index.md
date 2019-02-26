@@ -28,33 +28,39 @@ considered a passing score.
 
 ### <a name="scheduling" class="anchor"></a> Scheduling
 
-Written proficiency exams are generally offered at two times near the beginning of the
-fall and spring semesters.
+Written proficiency exams are generally offered at three times each year:
+
+1. **At the beginning of the fall semester** for incoming freshman and students
+    who were off-campus the prior semester.
 <!--- -->
+1. **Midway through the fall semester** to receive proficiency credit for the
+following spring.
+<!--- -->
+1. **Midway through the spring semester** to receive proficiency credit for the
+   following fall.
+
 Courses that give computer-based proficiency exams in the [Computer-Based
 Testing Facility (CBTF)](https://cbtf.engr.illinois.edu/) generally offer their exams
-during a window of time near the beginning of the fall and spring semesters.
+during a window of time around the same time as the written exams are offered.
 <!--- -->
 Please consult the [course-specific information](#courses) below to determine
 whether the proficiency exam you want to take is written or computer-based.
 
 #### <a name="next" class="anchor"></a> Next Written Proficiency Exam Dates and Times
 
-For Spring 2019 written proficiency exams will be held on:
+Spring 2019 midterm proficiency exams will be held on:
 
-* Tuesday 1/15/2019 @ 7&ndash;10PM in [Siebel 1404](https://goo.gl/fQwnq2),
-and
-<!--- -->
-* Wednesday 1/16/2019 @ 7&ndash;10PM in [Siebel 1404](https://goo.gl/fQwnq2).
+* Saturday 3/9/2019 @ 1:30PM in [Siebel 1404](https://goo.gl/fQwnq2),
 
 Note that most proficiency exams are three hours in length.
 <!--- -->
 If you need extra time, please make arrangements to take the exam at
 <!--- -->
 [DRES](https://www.disability.illinois.edu/).
-<!--- -->
+<!---
 If you would like to take multiple exams, please attend both written exam
 sessions.
+-->
 
 **You must arrive on time to take a proficiency exam.**
 <!--- -->
@@ -62,22 +68,17 @@ If you arrive late you will not be seated.
 
 #### <a name="next-cbtf" class="anchor"></a> Next Computer-Based Proficiency Exam Dates and Times
 
-**Computerized testing began in December 2018.**
-<!--- -->
-If you take and pass your proficiency exam before the start of the Spring 2019
-semester this help you enroll in CS courses that are enforcing prerequisites,
-and generally aid your spring course planning and registration process.
-
 The [Computer-Based Testing Facility (CBTF)](https://cbtf.engr.illinois.edu/) has opened the
-following times for proficiency examinations at the beginning of the Spring 2019
-semester:
+following times for Spring 2019 midterm proficiency exams:
 
-* Friday 1/11/2019, Saturday 1/12/2019, Tuesday 1/15/2019, [Grainger Library](https://goo.gl/QuNQ9V)
+* Saturday 3/9/2019 through Monday 3/11/2019, [Grainger Library](https://goo.gl/QuNQ9V)
 
-Note that the CBTF scheduler may not begin accepting reservations until
-1/11/2019.
+Note that the CBTF scheduler may not yet be accepting proficiency exam
+reservations.
 <!--- -->
-But it should be easy to find a time to take your exam on one of the first two
+If not, check back later.
+<!--- -->
+But it should be easy to find a time to take your exam on one of the available
 days.
 
 <!--**Note that we will do another round of computerized tests at the beginning of
