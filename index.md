@@ -64,7 +64,7 @@ So if you were registered for courses at the University of Illinois in Spring
 If you think that you need an exemption from this policy, please email
 [<code>proficiency&#8209;exams@lists.cs.illinois.edu</code>](mailto:proficiency-exams@lists.cs.illinois.edu).
 <!--- -->
-Note that "I want an exemption" is not itself a valid reason for receiving an
+Note that "I want an exemption" is not alone a valid reason for receiving an
 exemption.
 
 Note that most proficiency exams are three hours in length.
@@ -83,31 +83,22 @@ If you arrive late you will not be seated.
 
 #### <a name="next-cbtf" class="anchor"></a> Next Computer-Based Proficiency Exam Dates and Times
 
-Computer-based proficiency exams for CS 125 will be available to freshman who
-are on-campus to register for courses during Summer 2019.
+The [Computer-Based Testing Facility (CBTF)](https://cbtf.engr.illinois.edu/) will open the
+following times for Fall 2019 early-semester midterm proficiency exams:
+
+* Monday 8/19/2019 through Friday 8/23/2019, [Grainger Library](https://goo.gl/QuNQ9V)
+<!-- -->
+* Saturday 8/24/2019 and Sunday 8/25/2019, [DCL](https://tinyurl.com/y25wya52)
+<!-- -->
+* Monday 8/26/2019 through Friday 8/30/2019, [Grainger Library](https://goo.gl/QuNQ9V)
+
+Note that the CBTF scheduler may not yet be accepting proficiency exam
+reservations.
 <!--- -->
-Please see the [CS 125 section](#CS125) for more details.
-
-<!--The [Computer-Based Testing Facility (CBTF)](https://cbtf.engr.illinois.edu/) has opened the
-<!--following times for Spring 2019 midterm proficiency exams:
-<!--
-<!--* Saturday 3/9/2019 through Monday 3/11/2019, [Grainger Library](https://goo.gl/QuNQ9V)
-<!--
-<!--Note that the CBTF scheduler may not yet be accepting proficiency exam
-<!--reservations.
-<!--<!--- -->
-<!--If not, check back later.
-<!--<!--- -->
-<!--But it should be easy to find a time to take your exam on one of the available
-<!--days.
-
-<!--**Note that we will do another round of computerized tests at the beginning of
-<!--the Spring 2019 semester.**
-<!--<!--- -->
-<!--But you are encouraged to take your proficiency exam now if you are prepared.
-<!--<!--- -->
-<!--The earlier you take it, the earlier the CS advising staff can provide you with
-<!--overrides so that you can register for courses that require that prerequisite. -->
+If not, check back later.
+<!--- -->
+But it should be easy to find a time to take your exam on one of the available
+days.
 
 Please refer to the course-specific information below for instructions on how to sign up
 to take a proficiency exam in the CBTF.
