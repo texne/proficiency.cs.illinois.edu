@@ -52,8 +52,6 @@ whether the proficiency exam you want to take is written or computer-based.
 
 Fall 2019 early-semester proficiency exams will be held **Tuesday, August 27th,
 2019 from 6&ndash;10PM in [Siebel 1404](https://goo.gl/fQwnq2)**.
-<!--- -->
-**Note that this date is tentative.**
 
 As a reminder, the early-semester proficiency exam is restricted to
 incoming freshman and other students who were not on campus the prior semester.
