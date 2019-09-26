@@ -50,30 +50,28 @@ whether the proficiency exam you want to take is written or computer-based.
 
 #### <a name="next" class="anchor"></a> Next Written Proficiency Exam Dates and Times
 
-Fall 2019 early-semester proficiency exams will be held **Tuesday, August 27th,
-2019 from 6&ndash;10PM in [Siebel 1404](https://goo.gl/fQwnq2)**.
+Fall 2019 mid-semester proficiency exams will be held **Saturday, October 19th,
+2019 from 3&ndash;7PM in [Siebel 1404](https://goo.gl/fQwnq2)**.
 
+<!---
 As a reminder, the early-semester proficiency exam is restricted to
 incoming freshman and other students who were not on campus the prior semester.
-<!--- -->
+<!---
 So if you were registered for courses at the University of Illinois in Spring
 2019, you are not eligible to attend this proficiency exam seating.
-<!--- -->
+<!---
 If you think that you need an exemption from this policy, please email
 [<code>proficiency&#8209;exams@lists.cs.illinois.edu</code>](mailto:proficiency-exams@lists.cs.illinois.edu).
-<!--- -->
+<!---
 Note that "I want an exemption" is not alone a valid reason for receiving an
 exemption.
+-->
 
 Note that most proficiency exams are three hours in length.
 <!--- -->
 If you need extra time, please make arrangements to take the exam at
 <!--- -->
 [DRES](https://www.disability.illinois.edu/).
-<!---
-If you would like to take multiple exams, please attend both written exam
-sessions.
--->
 
 **You must arrive on time to take a proficiency exam.**
 <!--- -->
@@ -81,25 +79,33 @@ If you arrive late you will not be seated.
 
 #### <a name="next-cbtf" class="anchor"></a> Next Computer-Based Proficiency Exam Dates and Times
 
+<!--
 The [Computer-Based Testing Facility (CBTF)](https://cbtf.engr.illinois.edu/) will open the
 following times for Fall 2019 early-semester midterm proficiency exams:
+-->
+The [Computer-Based Testing Facility (CBTF)](https://cbtf.engr.illinois.edu/) will open times the week of October 21st, 2019,
+for the Fall 2019 mid-semester proficiency exams.
+<!-- -->
+Specific dates and times to follow.
 
+<!--
 * Monday 8/19/2019 through Friday 8/23/2019, [Grainger Library](https://goo.gl/QuNQ9V)
-<!-- -->
+<!--
 * Saturday 8/24/2019 and Sunday 8/25/2019, [DCL](https://tinyurl.com/y25wya52)
-<!-- -->
+<!--
 * Monday 8/26/2019 through Friday 8/30/2019, [Grainger Library](https://goo.gl/QuNQ9V)
 
 Note that the CBTF scheduler may not yet be accepting proficiency exam
 reservations.
-<!--- -->
+<!---
 If not, check back later.
-<!--- -->
+<!---
 But it should be easy to find a time to take your exam on one of the available
 days.
 
 Please refer to the course-specific information below for instructions on how to sign up
 to take a proficiency exam in the CBTF.
+-->
 
 ### <a name="restrictions" class="anchor"></a> General Restrictions
 
