@@ -46,7 +46,7 @@ whether the proficiency exam you want to take is written or computer-based.
 #### <a name="next" class="anchor"></a> Next Written Proficiency Exam Dates and Times
 
 The Spring 2020 early-semester written proficiency exam will be held **Tuesday
-January 21st, 2020 from 3&ndash;7PM** in a location to be announced, but probably in
+January 21st, 2020 from 7&ndash;10PM** in a location to be announced, but probably in
 [Siebel 1404](https://goo.gl/fQwnq2).
 
 <!---
