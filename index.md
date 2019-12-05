@@ -29,16 +29,11 @@ considered a passing score.
 
 ### <a name="scheduling" class="anchor"></a> Scheduling
 
-Written proficiency exams are offered three times each year:
+Written proficiency exams are offered two times each semester:
 
-1. **At the beginning of the fall semester** _only_ for incoming freshman and students
-    who were off-campus the prior semester.
+* the **1st** week,
 <!--- -->
-1. **Midway through the fall semester** to receive proficiency credit for the
-following spring.
-<!--- -->
-1. **Midway through the spring semester** to receive proficiency credit for the
-   following fall.
+* and in the **8th** week (immediately following the drop deadline).
 
 Courses that give computer-based proficiency exams in the [Computer-Based
 Testing Facility (CBTF)](https://cbtf.engr.illinois.edu/) generally offer their exams
@@ -50,8 +45,9 @@ whether the proficiency exam you want to take is written or computer-based.
 
 #### <a name="next" class="anchor"></a> Next Written Proficiency Exam Dates and Times
 
-Fall 2019 mid-semester proficiency exams will be held **Saturday, October 19th,
-2019 from 3&ndash;7PM in [Siebel 1404](https://goo.gl/fQwnq2)**.
+The Spring 2020 early-semester written proficiency exam will be held **Tuesday
+January 21st, 2020 from 3&ndash;7PM** in a location to be announced, but probably in
+[Siebel 1404](https://goo.gl/fQwnq2).
 
 <!---
 As a reminder, the early-semester proficiency exam is restricted to
@@ -79,12 +75,9 @@ If you arrive late you will not be seated.
 
 #### <a name="next-cbtf" class="anchor"></a> Next Computer-Based Proficiency Exam Dates and Times
 
-<!--
-The [Computer-Based Testing Facility (CBTF)](https://cbtf.engr.illinois.edu/) will open the
-following times for Fall 2019 early-semester midterm proficiency exams:
--->
-The [Computer-Based Testing Facility (CBTF)](https://cbtf.engr.illinois.edu/) will open times the week of October 21st, 2019,
-for the Fall 2019 mid-semester proficiency exams.
+The [Computer-Based Testing Facility (CBTF)](https://cbtf.engr.illinois.edu/)
+will open times the week of January 21st, 2020, for the Spring 2020
+early-semester proficiency exams.
 <!-- -->
 Specific dates and times to follow.
 
