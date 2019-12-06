@@ -118,10 +118,13 @@ received a grade for.**
 <!--- -->
 This is true even if it was a failing grade.
 <!--- -->
-1. **You may only take each proficiency exam once per year.**
+1. **You may only take each proficiency exam once in a 12-month period.**
 <!--- -->
-If you sit for multiple exams within the same year only the first score
-will be considered.
+So, once you sit for a proficiency exam, you must wait a full year to retake the
+same exam.
+<!--- -->
+If you sit for the same exam before the year is up, your score will not be
+counted.
 <!--- -->
 This restriction applies both to written proficiency exams and to ones given in
 the [CBTF](https://cbtf.engr.illinois.edu/).
