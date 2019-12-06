@@ -29,7 +29,7 @@ considered a passing score.
 
 ### <a name="scheduling" class="anchor"></a> Scheduling
 
-Written proficiency exams are offered two times each semester:
+Written proficiency exams are offered two times each fall and spring semester:
 
 * the **1st** week,
 <!--- -->
