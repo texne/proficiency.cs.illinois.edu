@@ -33,7 +33,7 @@ Written proficiency exams are offered two times each fall and spring semester:
 
 * the **1st** week,
 <!--- -->
-* and in the **8th** week (immediately following the drop deadline).
+* and in the **9th** week (immediately following the drop deadline).
 
 Courses that give computer-based proficiency exams in the [Computer-Based
 Testing Facility (CBTF)](https://cbtf.engr.illinois.edu/) generally offer their exams
@@ -45,9 +45,10 @@ whether the proficiency exam you want to take is written or computer-based.
 
 #### <a name="next" class="anchor"></a> Next Written Proficiency Exam Dates and Times
 
-The Spring 2020 early-semester written proficiency exam will be held **Tuesday
-January 21st, 2020 from 7&ndash;10PM** in a location to be announced, but probably in
-[Siebel 1404](https://goo.gl/fQwnq2).
+The Spring 2020 mid-semester written proficiency exam will be held **Tuesday
+March 24th, 2020 from 7&ndash;10PM** in [DCL 1320](https://tinyurl.com/r5q8642).
+
+<!--- [Siebel 1404](https://goo.gl/fQwnq2). -->
 
 <!---
 As a reminder, the early-semester proficiency exam is restricted to
@@ -76,8 +77,8 @@ If you arrive late you will not be seated.
 #### <a name="next-cbtf" class="anchor"></a> Next Computer-Based Proficiency Exam Dates and Times
 
 The [Computer-Based Testing Facility (CBTF)](https://cbtf.engr.illinois.edu/)
-will open times the week of January 21st, 2020, for the Spring 2020
-early-semester proficiency exams.
+will open times the week of March 23rd, 2020, for the Spring 2020
+mid-semester proficiency exams.
 <!-- -->
 Specific dates and times to follow.
 
