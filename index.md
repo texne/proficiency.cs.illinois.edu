@@ -77,10 +77,12 @@ If you arrive late you will not be seated.
 #### <a name="next-cbtf" class="anchor"></a> Next Computer-Based Proficiency Exam Dates and Times
 
 The [Computer-Based Testing Facility (CBTF)](https://cbtf.engr.illinois.edu/)
-will open times the week of March 23rd, 2020, for the Spring 2020
+will open times Sunday March 29th and Monday March 30th for the Spring 2020
 mid-semester proficiency exams.
 <!-- -->
-Specific dates and times to follow.
+<!-- Specific dates and times to follow. -->
+<!-- -->
+Reservations will open on Thursday March 19th.
 
 <!--
 * Monday 8/19/2019 through Friday 8/23/2019, [Grainger Library](https://goo.gl/QuNQ9V)
