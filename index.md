@@ -2,6 +2,15 @@
 title: Illinois CS Proficiency Exams
 ---
 
+<p class="alert alert-warning" markdown="1">
+<!--- -->
+**All Spring 2020 CS mid-semester proficiency exams have been cancelled.**
+<!--- -->
+All students will be welcome to sit for proficiency exams at the beginning of
+the Fall 2020 semester.
+<!--- -->
+</p>
+
 <p class="lead" markdown="1">
 <!--- -->
 If you have already mastered the material covered in certain Illinois Computer Science
@@ -45,6 +54,16 @@ whether the proficiency exam you want to take is written or computer-based.
 
 #### <a name="next" class="anchor"></a> Next Written Proficiency Exam Dates and Times
 
+<p class="alert alert-warning" markdown="1">
+<!--- -->
+**All Spring 2020 CS mid-semester proficiency exams have been cancelled.**
+<!--- -->
+All students will be welcome to sit for proficiency exams at the beginning of
+the Fall 2020 semester.
+<!--- -->
+</p>
+
+<!---
 The Spring 2020 mid-semester written proficiency exam will be held **Tuesday
 March 24th, 2020 from 7&ndash;10PM** in [DCL 1320](https://tinyurl.com/r5q8642).
 
@@ -62,27 +81,38 @@ If you think that you need an exemption from this policy, please email
 <!---
 Note that "I want an exemption" is not alone a valid reason for receiving an
 exemption.
--->
 
 Note that most proficiency exams are three hours in length.
-<!--- -->
+<!---
 If you need extra time, please make arrangements to take the exam at
-<!--- -->
+<!---
 [DRES](https://www.disability.illinois.edu/).
 
 **You must arrive on time to take a proficiency exam.**
-<!--- -->
+<!---
 If you arrive late you will not be seated.
+-->
 
 #### <a name="next-cbtf" class="anchor"></a> Next Computer-Based Proficiency Exam Dates and Times
 
+<p class="alert alert-warning" markdown="1">
+<!--- -->
+**All Spring 2020 CS mid-semester proficiency exams have been cancelled.**
+<!--- -->
+All students will be welcome to sit for proficiency exams at the beginning of
+the Fall 2020 semester.
+<!--- -->
+</p>
+
+<!--
 The [Computer-Based Testing Facility (CBTF)](https://cbtf.engr.illinois.edu/)
 will open times Sunday March 29th and Monday March 30th for the Spring 2020
 mid-semester proficiency exams.
 <!-- -->
 <!-- Specific dates and times to follow. -->
-<!-- -->
+<!--
 Reservations will open on Thursday March 19th.
+-->
 
 <!--
 * Monday 8/19/2019 through Friday 8/23/2019, [Grainger Library](https://goo.gl/QuNQ9V)
