@@ -4,10 +4,11 @@ title: Illinois CS Proficiency Exams
 
 <p class="alert alert-warning" markdown="1">
 <!--- -->
-**All Spring 2020 CS mid-semester proficiency exams have been cancelled.**
+**All Fall 2020 CS early-semester proficiency exams will be held _online_ the week
+before the semester begins: August 17th&ndash;21st.**
 <!--- -->
-All students will be welcome to sit for proficiency exams at the beginning of
-the Fall 2020 semester.
+Specific dates and times will be announced soon, but you will not
+need to travel back to campus to take any CS proficiency exam.
 <!--- -->
 </p>
 
@@ -38,11 +39,19 @@ considered a passing score.
 
 ### <a name="scheduling" class="anchor"></a> Scheduling
 
-Written proficiency exams are offered two times each fall and spring semester:
+Normally, written proficiency exams are offered two times each fall and spring semester:
 
 * the **1st** week,
 <!--- -->
 * and in the **9th** week (immediately following the drop deadline).
+
+<p class="alert alert-warning" markdown="1">
+<!--- -->
+However, please note that due to Covid-19 adjustments, all Fall 2020 proficiency
+exams will be given **online** the week before classes begin: August
+17th&ndash;21st.
+<!--- -->
+</p>
 
 Courses that give computer-based proficiency exams in the [Computer-Based
 Testing Facility (CBTF)](https://cbtf.engr.illinois.edu/) generally offer their exams
@@ -52,16 +61,17 @@ but may also offer exams at other times.
 Please consult the [course-specific information](#courses) below to determine
 whether the proficiency exam you want to take is written or computer-based.
 
-#### <a name="next" class="anchor"></a> Next Written Proficiency Exam Dates and Times
+### <a name="next" class="anchor"></a> Next Proficiency Exam Dates and Times
 
-<p class="alert alert-warning" markdown="1">
+**All Fall 2020 early-semester proficiency exams will be held online the week
+before classes begin: August 17th&ndash;21st.**
 <!--- -->
-**All Spring 2020 CS mid-semester proficiency exams have been cancelled.**
-<!--- -->
-All students will be welcome to sit for proficiency exams at the beginning of
-the Fall 2020 semester.
-<!--- -->
-</p>
+Specific dates and times for each course will be announced soon, but we plan to
+provide several chances to take each proficiency exam to accommodate travel
+plans and time-zoned differences.
+
+This fall all students are eligible to take the early-semester proficiency
+exams, as mid-semester exams in Spring 2020 were cancelled.
 
 <!---
 The Spring 2020 mid-semester written proficiency exam will be held **Tuesday
@@ -93,16 +103,19 @@ If you need extra time, please make arrangements to take the exam at
 If you arrive late you will not be seated.
 -->
 
+<!---
 #### <a name="next-cbtf" class="anchor"></a> Next Computer-Based Proficiency Exam Dates and Times
 
+<!---
 <p class="alert alert-warning" markdown="1">
-<!--- -->
+<!---
 **All Spring 2020 CS mid-semester proficiency exams have been cancelled.**
-<!--- -->
+<!---
 All students will be welcome to sit for proficiency exams at the beginning of
 the Fall 2020 semester.
-<!--- -->
+<!---
 </p>
+-->
 
 <!--
 The [Computer-Based Testing Facility (CBTF)](https://cbtf.engr.illinois.edu/)
@@ -225,13 +238,26 @@ to notify them of your disability and register for support services.
 **If you are new to the University of Illinois you should begin this process as
 soon as you are admitted.**
 
+If you qualify for testing-related accommodations, please review the
+information below for the specific proficiency exams that you plan on taking.
+<!--- -->
+Instructions should be provided for how to communicate your accommodation
+request.
+<!--- -->
+Many exams are using the CBTF online proctoring, in which case you should send
+your letter of accommodation to [Carleen Sacris](mailto:sacris1@illinois.edu).
+<!--- -->
+Please make sure to do so _before_ your exam begins.
+
+<!---
 You should make arrangements to take your proficiency exam in the DRES testing
 center by contacting
-<!--- -->
+<!---
 [<code>proficiency&#8209;exams@lists.cs.illinois.edu</code>](mailto:proficiency-exams@lists.cs.illinois.edu).
-<!--- -->
+<!---
 In your email be sure to indicate which proficiency exam (or exams) you wish to
 take, and include a copy of your DRES letter documenting your accommodations.
+-->
 
 ### <a name="questions" class="anchor"></a> Questions or Concerns
 
