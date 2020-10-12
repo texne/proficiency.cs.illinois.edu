@@ -4,12 +4,12 @@ title: Illinois CS Proficiency Exams
 
 <p class="alert alert-warning" markdown="1">
 <!--- -->
-**All Fall 2020 CS early-semester proficiency exams will be held _online_ the week
-before the semester begins: August 17th&ndash;21st.**
-<!--- -->
+**Fall 2020 CS mid-semester online proficiency exams will be held
+October 19th and 20th.**
+<!---
 Specific dates and times will be announced soon, but you will not
 need to travel back to campus to take any CS proficiency exam.
-<!--- -->
+-->
 </p>
 
 <p class="lead" markdown="1">
@@ -45,13 +45,15 @@ Normally, written proficiency exams are offered two times each fall and spring s
 <!--- -->
 * and in the **9th** week (immediately following the drop deadline).
 
+<!---
 <p class="alert alert-warning" markdown="1">
-<!--- -->
+<!---
 However, please note that due to Covid-19 adjustments, all Fall 2020 proficiency
 exams will be given **online** the week before classes begin: August
 17th&ndash;21st.
-<!--- -->
+<!---
 </p>
+-->
 
 Courses that give computer-based proficiency exams in the [Computer-Based
 Testing Facility (CBTF)](https://cbtf.engr.illinois.edu/) generally offer their exams
@@ -63,15 +65,16 @@ whether the proficiency exam you want to take is written or computer-based.
 
 ### <a name="next" class="anchor"></a> Next Proficiency Exam Dates and Times
 
-**All Fall 2020 early-semester proficiency exams will be held online the week
-before classes begin: August 17th&ndash;21st.**
-<!--- -->
+**Fall 2020 mid-semester proficiency exams will be held October 19th and 20th.**
+
+<!--
 Specific dates and times for each course will be announced soon, but we plan to
 provide several chances to take each proficiency exam to accommodate travel
 plans and time-zoned differences.
 
 This fall all students are eligible to take the early-semester proficiency
 exams, as mid-semester exams in Spring 2020 were cancelled.
+-->
 
 <!---
 The Spring 2020 mid-semester written proficiency exam will be held **Tuesday
