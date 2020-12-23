@@ -4,12 +4,15 @@ title: Illinois CS Proficiency Exams
 
 <p class="alert alert-warning" markdown="1">
 <!--- -->
-**Fall 2020 CS mid-semester online proficiency exams will be held
-October 19th and 20th.**
-<!---
-Specific dates and times will be announced soon, but you will not
-need to travel back to campus to take any CS proficiency exam.
--->
+**Spring 2021 CS early-semester proficiency exams will be held Saturday, January 23rd, 2021, at 8AM and 1PM Central Time.**
+<!--- -->
+Early semester proficiency exams are only available to students with special permission.
+<!--- -->
+CS proficiency exams will be given again at mid-semester.
+<!--- -->
+Exams will be given remotely.
+<!--- -->
+You do not need to travel back to campus to take any CS proficiency exam.
 </p>
 
 <p class="lead" markdown="1">
@@ -39,21 +42,11 @@ considered a passing score.
 
 ### <a name="scheduling" class="anchor"></a> Scheduling
 
-Normally, written proficiency exams are offered two times each fall and spring semester:
+Normally, proficiency exams are offered two times each fall and spring semester:
 
-* the **1st** week,
+* the **1st** week (with special permission),
 <!--- -->
 * and in the **9th** week (immediately following the drop deadline).
-
-<!---
-<p class="alert alert-warning" markdown="1">
-<!---
-However, please note that due to Covid-19 adjustments, all Fall 2020 proficiency
-exams will be given **online** the week before classes begin: August
-17th&ndash;21st.
-<!---
-</p>
--->
 
 Courses that give computer-based proficiency exams in the [Computer-Based
 Testing Facility (CBTF)](https://cbtf.engr.illinois.edu/) generally offer their exams
@@ -65,12 +58,20 @@ whether the proficiency exam you want to take is written or computer-based.
 
 ### <a name="next" class="anchor"></a> Next Proficiency Exam Dates and Times
 
-**Fall 2020 mid-semester proficiency exams will be held October 19th and 20th.**
+Spring 2021 early-semester proficiency exams will be held Saturday, January
+23rd, 2021, at 8AM and 1PM Central Time.
+
+All CS proficiency exams will be given remotely.
+<!-- -->
+Proctoring will be done over Zoom.
+<!-- -->
+Proctoring information and Zoom links will be posted before here before the
+exams begin.
 
 <!--
 Specific dates and times for each course will be announced soon, but we plan to
 provide several chances to take each proficiency exam to accommodate travel
-plans and time-zoned differences.
+plans and time-zone differences.
 
 This fall all students are eligible to take the early-semester proficiency
 exams, as mid-semester exams in Spring 2020 were cancelled.
@@ -156,7 +157,7 @@ In certain cases you may not be eligible to take a proficiency exam.
 You are responsible for understanding these conditions.
 <!--- -->
 **We will not attempt to determine whether you are eligible to take a
-proficiency exam before you sit for it.**
+proficiency exam before you take it.**
 <!--- -->
 You will only find out later that you will not receive credit.
 <!--- -->
@@ -169,7 +170,7 @@ This is true even if it was a failing grade.
 <!--- -->
 1. **You may only take each proficiency exam once in a 12-month period.**
 <!--- -->
-So, once you sit for a proficiency exam, you must wait a full year to retake the
+So, once you take a proficiency exam, you must wait a full year to retake the
 same exam.
 <!--- -->
 If you sit for the same exam before the year is up, your score will not be
