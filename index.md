@@ -8,7 +8,7 @@ title: Illinois CS Proficiency Exams
 <!--- -->
 CS proficiency exams will be given again at mid-semester.
 <!--- -->
-Exams will be given remotely.
+Exams will be given remotely and proctored over Zoom.
 <!--- -->
 You do not need to travel back to campus to take any CS proficiency exam.
 </p>
@@ -46,10 +46,15 @@ Normally, proficiency exams are offered two times each fall and spring semester:
 <!--- -->
 * and in the **9th** week (immediately following the drop deadline).
 
+Courses that give online Zoom-proctored exams generally offer their exams
+during a window of time around the same time as the written exams are offered,
+but may also offer exams at other times.
+<!---
 Courses that give computer-based proficiency exams in the [Computer-Based
 Testing Facility (CBTF)](https://cbtf.engr.illinois.edu/) generally offer their exams
 during a window of time around the same time as the written exams are offered,
 but may also offer exams at other times.
+-->
 <!--- -->
 Please consult the [course-specific information](#courses) below to determine
 whether the proficiency exam you want to take is written or computer-based.
@@ -65,6 +70,8 @@ Proctoring will be done over Zoom.
 <!-- -->
 Proctoring information and Zoom links will be posted before here before the
 exams begin.
+<!-- -->
+**Note that CS proficiency exams are no longer using the online CBTF.**
 
 <!--
 Specific dates and times for each course will be announced soon, but we plan to
@@ -174,8 +181,7 @@ same exam.
 If you sit for the same exam before the year is up, your score will not be
 counted.
 <!--- -->
-This restriction applies both to written proficiency exams and to ones given in
-the [CBTF](https://cbtf.engr.illinois.edu/).
+This restriction applies regardless of how the proficiency exam is given.
 <!--- -->
 1. **You may not take a proficiency exam if you have taken more than one later
 course in the same area.**
@@ -198,11 +204,12 @@ to take](#courses) for more details.
 
 ### <a name="taking" class="anchor"></a> Taking Your Proficiency Exam
 
-To take a written proficiency exam simply show up at one of the scheduled exam
-times.
-<!--- -->
+To take a written or online Zoom-proctored proficiency exam simply show up at
+one of the scheduled exam times.
+<!---
 To take a computer-based proficiency exam you must schedule a time with the
 [CBTF](https://cbtf.engr.illinois.edu/).
+-->
 <!--- -->
 You must bring your University of Illinois ID to the proficiency exam, if you
 have one.
@@ -224,8 +231,7 @@ If the exam is written, it may take several days before your exam is graded.
 You will receive your proficiency exam results directly from the instructor
 supervising the exam.
 <!--- -->
-If the exam is given in the [CBTF](https://cbtf.engr.illinois.edu/) you may receive your results
-immediately.
+If the exam is given on a computer you may receive your results immediately.
 
 ### <a name="disabilities" class="anchor"></a> Information for Students with Disabilities
 
@@ -246,8 +252,11 @@ information below for the specific proficiency exams that you plan on taking.
 Instructions should be provided for how to communicate your accommodation
 request.
 <!--- -->
+Please bring your letter of accommodation to your exam.
+<!---
 Many exams are using the CBTF online proctoring, in which case you should send
 your letter of accommodation to [Carleen Sacris](mailto:sacris1@illinois.edu).
+-->
 <!--- -->
 Please make sure to do so _before_ your exam begins.
 
