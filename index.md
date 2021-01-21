@@ -66,12 +66,14 @@ Spring 2021 early-semester proficiency exams will be held Saturday, January
 
 All CS proficiency exams will be given remotely.
 <!-- -->
+**Note that CS proficiency exams are no longer using the online CBTF.**
+<!-- -->
 Proctoring will be done over Zoom.
 <!-- -->
-Proctoring information and Zoom links will be posted before here before the
+Proctoring information and Zoom links will be posted here before
 exams begin.
 <!-- -->
-**Note that CS proficiency exams are no longer using the online CBTF.**
+Please check back for the most up-to-date information on the day of your exam.
 
 <!--
 Specific dates and times for each course will be announced soon, but we plan to
