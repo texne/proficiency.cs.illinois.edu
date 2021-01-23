@@ -226,6 +226,19 @@ However, each exam period finishes promptly at the times [indicated
 above](#next), so you will need to work quickly to complete multiple exams in
 the time allotted.
 
+**CS proficiency exams are using Zoom proctoring but not the online CBTF.**
+<!--- -->
+However, you should still review the online CBTF instructions for how to set up
+your environment to enable Zoom proctoring.
+<!--- -->
+Review [this
+overview](https://d1b10bmlvqabco.cloudfront.net/paste/gxtm38rc1kx1l1/63f0a107df4734a1a567e4dce8feac5ae56052402202b8a91b10375ff48b9865/Student_Instructions.pdf)
+and [these instructions for phone
+positioning](https://d1b10bmlvqabco.cloudfront.net/paste/gxtm38rc1kx1l1/3ce9074b49070335c40d2c0d1365c7edcb39debd5a37755654f7337a62ffc289/How_to_Position_Your_Phone.pdf).
+<!--- -->
+You will need Zoom installed on your phone and configured to use your Illinois
+account.
+
 ### <a name="results" class="anchor"></a> Receiving Your Results
 
 If the exam is written, it may take several days before your exam is graded.
