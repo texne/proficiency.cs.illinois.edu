@@ -4,13 +4,9 @@ title: Illinois CS Proficiency Exams
 
 <p class="alert alert-warning" markdown="1">
 <!--- -->
-**Spring 2021 CS early-semester proficiency exams will be held Saturday, January 23rd, 2021, at 8AM and 1PM Central Time.**
+**CS proficiency exams will be not be given again at mid-semester in Spring 2021.**
 <!--- -->
-CS proficiency exams will be given again at mid-semester.
-<!--- -->
-Exams will be given remotely and proctored over Zoom.
-<!--- -->
-You do not need to travel back to campus to take any CS proficiency exam.
+Exams will be given again ahead of the Fall 2021 semester.
 </p>
 
 <p class="lead" markdown="1">
@@ -45,6 +41,12 @@ Normally, proficiency exams are offered two times each fall and spring semester:
 * the **1st** week
 <!--- -->
 * and in the **9th** week (immediately following the drop deadline).
+
+<p class="alert alert-warning" markdown="1">
+<!--- -->
+**Note that the Spring 2021 mid-semester proficiency exams have been canceled.**
+<!--- -->
+</p>
 
 Courses that give online Zoom-proctored exams generally offer their exams
 during a window of time around the same time as the written exams are offered,
