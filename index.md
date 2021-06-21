@@ -4,9 +4,11 @@ title: Illinois CS Proficiency Exams
 
 <p class="alert alert-warning" markdown="1">
 <!--- -->
-**CS proficiency exams will be not be given again at mid-semester in Spring 2021.**
+**CS proficiency exams will be given again next at the start of the Fall 2021 semester.**
 <!--- -->
-Exams will be given again ahead of the Fall 2021 semester.
+Dates and details about exams for new courses CS 124 and CS 128 will be posted
+here once they are available.
+<!--- -->
 </p>
 
 <p class="lead" markdown="1">
@@ -29,53 +31,30 @@ They are intended to ensure that you are well-prepared for later courses in the
 same subject area.
 <!--- -->
 **Passing criteria are at the discretion of each course instructor.**
-<!---
-But in general an exam score that would correspond to a course grade of a B- is
-considered a passing score.
--->
 
 ### <a name="scheduling" class="anchor"></a> Scheduling
 
-Normally, proficiency exams are offered two times each fall and spring semester:
-
-* the **1st** week
-<!--- -->
-* and in the **9th** week (immediately following the drop deadline).
-
-<p class="alert alert-warning" markdown="1">
-<!--- -->
-**Note that the Spring 2021 mid-semester proficiency exams have been canceled.**
-<!--- -->
-</p>
-
-Courses that give online Zoom-proctored exams generally offer their exams
-during a window of time around the same time as the written exams are offered,
-but may also offer exams at other times.
-<!---
-Courses that give computer-based proficiency exams in the [Computer-Based
-Testing Facility (CBTF)](https://cbtf.engr.illinois.edu/) generally offer their exams
-during a window of time around the same time as the written exams are offered,
-but may also offer exams at other times.
--->
-<!--- -->
-Please consult the [course-specific information](#courses) below to determine
-whether the proficiency exam you want to take is written or computer-based.
+Proficiency exams are offered at the beginning of each semester, and at other
+times at the discretion of the department.
 
 ### <a name="next" class="anchor"></a> Next Proficiency Exam Dates and Times
 
-Spring 2021 early-semester proficiency exams will be held Saturday, January
-23rd, 2021, at 8AM and 1PM Central Time.
+Fall 2021 proficiency exams will be held at the beginning of the Fall 2021
+semester.
+<!-- -->
+Specific dates and times will be posted here once they are available.
 
 All CS proficiency exams will be given remotely.
 <!-- -->
-**Note that CS proficiency exams are no longer using the online CBTF.**
-<!-- -->
 Proctoring will be done over Zoom.
 <!-- -->
-Proctoring information and Zoom links will be posted here before
-exams begin.
+Proctoring details and Zoom links will be posted here before exams begin.
 <!-- -->
 Please check back for the most up-to-date information on the day of your exam.
+
+**Note that CS proficiency exams are no longer using the online CBTF.**
+<!-- -->
+So there is nothing to sign up for on the CBTF website.
 
 <!--
 Specific dates and times for each course will be announced soon, but we plan to
@@ -182,16 +161,18 @@ This is true even if it was a failing grade.
 So, once you take a proficiency exam, you must wait a full year to retake the
 same exam.
 <!--- -->
-If you sit for the same exam before the year is up, your score will not be
-counted.
+If you attempt the same exam before the year is up, your score will not be counted.
 <!--- -->
 This restriction applies regardless of how the proficiency exam is given.
 <!--- -->
-1. **You may not take a proficiency exam if you have taken more than one later
+1. **You may not receive proficiency credit for a course if you have taken a
 course in the same area.**
 <!--- -->
-For example, you may not take the CS 173 Proficiency Exam if you have already
-taken *both* CS 225 and CS 374, since they constitute two courses in the same area.
+For example, you may not receive proficiency credit for CS 173 if you have already
+taken CS 374, since it is in the same area as CS 173.
+<!--- -->
+As another example, you may not receive proficiency credit for CS 124 if you
+have already taken CS 128, for the same reason.
 <!--- -->
 Instead of taking the proficiency exam, you may be required to substitute other
 later courses to fulfill your degree requirements.
@@ -219,7 +200,7 @@ You must bring your University of Illinois ID to the proficiency exam, if you
 have one.
 <!--- -->
 **If you show up late or without proper identification, you will not be able to
-sit for the exam.**
+complete the exam.**
 
 You may attempt multiple different proficiency exams during one written exam
 sitting.
@@ -305,7 +286,11 @@ Please review the information below for any proficiency exams you plan to take.
 
 {% include_relative _includes/cs105.md %}
 
+{% include_relative _includes/cs124.md %}
+
 {% include_relative _includes/cs125.md %}
+
+{% include_relative _includes/cs128.md %}
 
 {% include_relative _includes/cs173.md %}
 
