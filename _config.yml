@@ -6,7 +6,9 @@ repository: "texne/proficiency.cs.illinois.edu"
 exams:
   - 101
   - 105
+  - 124
   - 125
+  - 128
   - 173
   - 225
 exclude:
