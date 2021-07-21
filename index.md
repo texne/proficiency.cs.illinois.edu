@@ -194,12 +194,14 @@ have one.
 **If you show up late or without proper identification, you will not be able to
 complete the exam.**
 
+<!--
 You may attempt multiple different proficiency exams during one written exam
 sitting.
-<!--- -->
+
 However, each exam period finishes promptly at the times [indicated
 above](#next), so you will need to work quickly to complete multiple exams in
 the time allotted.
+-->
 
 **CS proficiency exams are using Zoom proctoring but not the online CBTF.**
 <!--- -->
