@@ -231,6 +231,10 @@ supervising the exam.
 
 Proficiency results are pass/no-pass only.    You will not receive detailed feedback.
 
+It may take several weeks for proficiency credit to appear on your official transcript.
+However, results are transmitted very quickly to the CS academic office so that we can
+issue appropriate overrides for updating your registration.   
+
 ### <a name="disabilities" class="anchor"></a> Information for Students with Disabilities
 
 We will accommodate any disabilities that have been registered with the [Division
