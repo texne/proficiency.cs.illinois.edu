@@ -181,8 +181,10 @@ to take](#courses) for more details.
 
 ### <a name="taking" class="anchor"></a> Taking Your Proficiency Exam
 
-To take a written or online Zoom-proctored proficiency exam simply show up at
-one of the scheduled exam times.
+To take a Zoom-proctored proficiency exam first sign up if your exam requires
+it (see specific course information below), then join the posted zoom 
+session at 
+one of the scheduled exam times.   
 <!---
 To take a computer-based proficiency exam you must schedule a time with the
 [CBTF](https://cbtf.engr.illinois.edu/).
@@ -218,12 +220,16 @@ account.
 
 ### <a name="results" class="anchor"></a> Receiving Your Results
 
-If the exam is written, it may take several days before your exam is graded.
-<!--- -->
-You will receive your proficiency exam results directly from the instructor
+For the CS 124 and 128 exams are entirely autograded, so 
+you will find out immediately whether you passed.   Some of
+the other exams include some manually-graded questions,
+so it may take several days before your exam is graded.  In
+that case,
+you will receive your proficiency exam results directly from the instructor
 supervising the exam.
 <!--- -->
-If the exam is given on a computer you may receive your results immediately.
+
+Proficiency results are pass/no-pass only.    You will not receive detailed feedback.
 
 ### <a name="disabilities" class="anchor"></a> Information for Students with Disabilities
 
