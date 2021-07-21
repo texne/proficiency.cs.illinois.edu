@@ -6,8 +6,8 @@ title: Illinois CS Proficiency Exams
 <!--- -->
 **CS proficiency exams will be given again next at the start of the Fall 2021 semester.**
 <!--- -->
-Dates and details about exams for new courses CS 124 and CS 128 will be posted
-here once they are available.
+We're in the process of adding dates and details, especially for new courses CS 124 and CS 128.   Please regard this web
+page as slightly unstable until we remove this warning.
 <!--- -->
 </p>
 
@@ -39,16 +39,16 @@ times at the discretion of the department.
 
 ### <a name="next" class="anchor"></a> Next Proficiency Exam Dates and Times
 
-Fall 2021 proficiency exams will be held at the beginning of the Fall 2021
-semester.
+Fall 2021 proficiency exams will be held around the beginning of the Fall 2021
+semester, between Monday August 14 and Monday August 23rd.
 <!-- -->
-Specific dates and times will be posted here once they are available.
+Specific dates and times are given below, under the individual courses.
 
 All CS proficiency exams will be given remotely.
 <!-- -->
 Proctoring will be done over Zoom.
 <!-- -->
-Proctoring details and Zoom links will be posted here before exams begin.
+Sign-up and proctoring details and Zoom links will be posted below, under each individual course.
 <!-- -->
 Please check back for the most up-to-date information on the day of your exam.
 
@@ -56,14 +56,6 @@ Please check back for the most up-to-date information on the day of your exam.
 <!-- -->
 So there is nothing to sign up for on the CBTF website.
 
-<!--
-Specific dates and times for each course will be announced soon, but we plan to
-provide several chances to take each proficiency exam to accommodate travel
-plans and time-zone differences.
-
-This fall all students are eligible to take the early-semester proficiency
-exams, as mid-semester exams in Spring 2020 were cancelled.
--->
 
 <!---
 The Spring 2020 mid-semester written proficiency exam will be held **Tuesday
