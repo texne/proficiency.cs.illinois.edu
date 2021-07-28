@@ -36,7 +36,7 @@ same subject area.
 For the core programming sequence (CS 124, CS 128, CS 225), we strongly recommend that
 you attempt the proficiency exams in order (and our schedule is set up to encourage this).   
 Results are available right away for the CS 124
-and CS 128 exams,
+and CS 128 exams, so you'll know whether it's worth attempting later exams in the sequence.
 
 ### <a name="scheduling" class="anchor"></a> Scheduling
 
