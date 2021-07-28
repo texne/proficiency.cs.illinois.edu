@@ -28,9 +28,9 @@ Proficiency exams are similar in coverage and scope to a comprehensive
 final exam.
 <!--- -->
 They are intended to ensure that you are well-prepared for later courses in the
-same subject area.
+same subject area, so we expect performance at the B- level.
 <!--- -->
-**Passing criteria are at the discretion of each course instructor.**
+**Specific passing criteria are at the discretion of each course instructor.**
 <!--- -->
 
 For the core programming sequence (CS 124, CS 128, CS 225), we strongly recommend that
