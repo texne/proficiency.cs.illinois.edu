@@ -28,7 +28,7 @@ Proficiency exams are similar in coverage and scope to a comprehensive
 final exam.
 <!--- -->
 They are intended to ensure that you are well-prepared for later courses in the
-same subject area, so we expect performance at the B- level.
+same subject area.   So we expect performance at the B- level or above.
 <!--- -->
 **Specific passing criteria are at the discretion of each course instructor.**
 <!--- -->
