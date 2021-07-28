@@ -31,6 +31,12 @@ They are intended to ensure that you are well-prepared for later courses in the
 same subject area.
 <!--- -->
 **Passing criteria are at the discretion of each course instructor.**
+<!--- -->
+
+For the core programming sequence (CS 124, CS 128, CS 225), we strongly recommend that
+you attempt the proficiency exams in order (and our schedule is set up to encourage this).   
+Results are available right away for the CS 124
+and CS 128 exams,
 
 ### <a name="scheduling" class="anchor"></a> Scheduling
 
