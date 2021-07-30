@@ -33,10 +33,11 @@ same subject area.   So we expect performance at the B- level or above.
 **Specific passing criteria are at the discretion of each course instructor.**
 <!--- -->
 
-For the core programming sequence (CS 124, CS 128, CS 225), we strongly recommend that
-you attempt the proficiency exams in order (and our schedule is set up to encourage this).   
-Results are available right away for the CS 124
-and CS 128 exams, so you'll know whether it's worth attempting later exams in the sequence.
+**For the core programming sequence (CS 124, CS 128, CS 225) you must attempt
+the proficiency exams in order.**
+Results are available immediately for the CS 124 and CS 128 exams, so you'll
+know whether you can continue with the sequence.
+We will not grant proficiency credit for exams taken out of sequence.
 
 ### <a name="scheduling" class="anchor"></a> Scheduling
 
@@ -188,9 +189,9 @@ to take](#courses) for more details.
 ### <a name="taking" class="anchor"></a> Taking Your Proficiency Exam
 
 To take a Zoom-proctored proficiency exam first sign up if your exam requires
-it (see specific course information below), then join the posted zoom 
-session at 
-one of the scheduled exam times.   
+it (see specific course information below), then join the posted zoom
+session at
+one of the scheduled exam times.
 <!---
 To take a computer-based proficiency exam you must schedule a time with the
 [CBTF](https://cbtf.engr.illinois.edu/).
@@ -226,7 +227,7 @@ account.
 
 ### <a name="results" class="anchor"></a> Receiving Your Results
 
-For the CS 124 and 128 exams are entirely autograded, so 
+For the CS 124 and 128 exams are entirely autograded, so
 you will find out immediately whether you passed.   Some of
 the other exams include some manually-graded questions,
 so it may take several days before your exam is graded.  In
@@ -239,7 +240,7 @@ Proficiency results are pass/no-pass only.    You will not receive detailed feed
 
 It may take several weeks for proficiency credit to appear on your official transcript.
 However, results are transmitted very quickly to the CS academic office so that we can
-issue appropriate overrides for updating your registration.   
+issue appropriate overrides for updating your registration.
 
 ### <a name="disabilities" class="anchor"></a> Information for Students with Disabilities
 
