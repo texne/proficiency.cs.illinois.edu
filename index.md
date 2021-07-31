@@ -6,8 +6,7 @@ title: Illinois CS Proficiency Exams
 <!--- -->
 **CS proficiency exams will be given again next at the start of the Fall 2021 semester.**
 <!--- -->
-We're in the process of adding dates and details, especially for new courses CS 124 and CS 128.   Please regard this web
-page as slightly unstable until we remove this warning.
+The dates and basic information are below.   However, we're still adding details, especially for new courses CS 124 and CS 128.   Please check back with this page as we get closer to the exam dates.
 <!--- -->
 </p>
 
