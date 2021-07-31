@@ -282,8 +282,8 @@ take, and include a copy of your DRES letter documenting your accommodations.
 ### <a name="questions" class="anchor"></a> Questions or Concerns
 
 If you have questions not covered here, or on the course-specific pages below,
-please start a conversation on the [CS Advising Piazza
-Forum](https://piazza.com/illinois/other/csadvising/home).
+please send email to the proficiency coordinators
+at [proficiency-exams@lists.cs.illinois.edu](mailto:proficiency-exams@lists.cs.illinois.edu).
 <!--- -->
 That is the best way to have your questions answered quickly.
 <!--- -->
