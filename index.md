@@ -5,7 +5,7 @@ title: Illinois CS Proficiency Exams
 <p class="alert alert-warning" markdown="1">
 <!--- -->
 **CS proficiency exams will be given again next at the start of the Spring 2021 semester.**
-<!--- -->  
+
 *  Morning of Thursday January 13th:   CS 124 and 173
 <!--- -->  
 *  Afternoon of Thursday January 13th:  CS 101, 128, 225
