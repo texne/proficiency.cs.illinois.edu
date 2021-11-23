@@ -55,7 +55,7 @@ spring classes:
 *  Evening of Tuesday January 18th:  conflict 
 
 <!-- -->
-Specific dates and times are given below, under the individual courses.
+As we get closer to the exam dates, more details will be added under the individual courses below.
 
 All CS proficiency exams will be given remotely.
 <!-- -->
