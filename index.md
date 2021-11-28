@@ -48,11 +48,11 @@ times at the discretion of the department.
 Spring 2021 proficiency exams will be held on the following dates around the start of 
 spring classes:
 
-*  Morning of Thursday January 13th:   CS 124 and 173
+*  Morning of Thursday January 13th, 8-11am:   CS 124 and 173
 <!--- -->  
-*  Afternoon of Thursday January 13th:  CS 101, 128, 225
+*  Afternoon of Thursday January 13th, 1:30-4:30pm:  CS 101, 128, 225
 <!--- -->  
-*  Evening of Tuesday January 18th:  conflict 
+*  Evening of Tuesday January 18th, 7-10pm:  conflict 
 
 <!-- -->
 As we get closer to the exam dates, more details will be added under the individual courses below.
