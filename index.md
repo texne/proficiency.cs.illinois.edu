@@ -4,7 +4,7 @@ title: Illinois CS Proficiency Exams
 
 <p class="alert alert-warning" markdown="1">
 <!--- -->
-**CS proficiency exams will be given again next at the start of the Spring 2021 semester.**
+**CS proficiency exams will be given again next at the start of the Spring 2022 semester.**
 
 See below for dates.     Please check back with this page for more details as we get closer to the exam dates.
 <!--- -->
@@ -45,7 +45,7 @@ times at the discretion of the department.
 
 ### <a name="next" class="anchor"></a> Next Proficiency Exam Dates and Times
 
-Spring 2021 proficiency exams will be held on the following dates around the start of 
+Spring 2022 proficiency exams will be held on the following dates around the start of 
 spring classes:
 
 *  Morning of Thursday January 13th, 8-11am:   CS 124 and 173
