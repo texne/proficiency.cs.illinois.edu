@@ -4,9 +4,11 @@ title: Illinois CS Proficiency Exams
 
 <p class="alert alert-warning" markdown="1">
 <!--- -->
-**CS proficiency exams will be given again next at the start of the Spring 2022 semester.**
+**CS proficiency exams are given at the start of Fall and Spring semesters.**
 
-See below for dates.     Please check back with this page for more details as we get closer to the exam dates.
+The exams are held around the start of classes each fall and spring, with any in-person exams being held after dorms open.  Due to uncontrollable factors such as Covid-19 tending to change the university's move-in arrangements, we will wait until about a month before the start of each term to pin down details (e.g. dates, are any exams offered online).   At that point, we will update the information below so that it reflects the upcoming term.   
+
+Please watch this web page for the latest information.
 <!--- -->
 </p>
 
