@@ -186,7 +186,7 @@ Instead of taking the proficiency exam, you may be required to substitute other
 later courses to fulfill your degree requirements.
 <!--- -->
 1. **Graduate students generally may only take Illinois Computer Science proficiency exams when
-required to satisfy other degree programs.**
+required to satisfy another degree programs on our campus.**
 <!--- -->
 Please contact the CS academic office to obtain permission if needed.
 
