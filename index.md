@@ -48,14 +48,8 @@ times at the discretion of the department.
 
 ### <a name="next" class="anchor"></a> Next Proficiency Exam Dates and Times
 
-Spring 2022 proficiency exams will be held on the following dates around the start of 
-spring classes:
-
-*  Morning of Thursday January 13th, 8-11am:   CS 124 and 173
-<!--- -->  
-*  Afternoon of Thursday January 13th, 1:30-4:30pm:  CS 101, 128, 225
-<!--- -->  
-*  Evening of Tuesday January 18th, 7-10pm:  conflict 
+Fall 2022 proficiency exams will be held around the start of 
+fall classes.   Details will appear in late summer.
 
 <!-- -->
 As we get closer to the exam dates, more details will be added under the individual courses below.
@@ -103,48 +97,11 @@ If you need extra time, please make arrangements to take the exam at
 If you arrive late you will not be seated.
 -->
 
-<!---
-#### <a name="next-cbtf" class="anchor"></a> Next Computer-Based Proficiency Exam Dates and Times
 
-<!---
-<p class="alert alert-warning" markdown="1">
-<!---
-**All Spring 2020 CS mid-semester proficiency exams have been cancelled.**
-<!---
-All students will be welcome to sit for proficiency exams at the beginning of
-the Fall 2020 semester.
-<!---
-</p>
--->
 
-<!--
-The [Computer-Based Testing Facility (CBTF)](https://cbtf.engr.illinois.edu/)
-will open times Sunday March 29th and Monday March 30th for the Spring 2020
-mid-semester proficiency exams.
-<!-- -->
-<!-- Specific dates and times to follow. -->
-<!--
-Reservations will open on Thursday March 19th.
--->
 
-<!--
-* Monday 8/19/2019 through Friday 8/23/2019, [Grainger Library](https://goo.gl/QuNQ9V)
-<!--
-* Saturday 8/24/2019 and Sunday 8/25/2019, [DCL](https://tinyurl.com/y25wya52)
-<!--
-* Monday 8/26/2019 through Friday 8/30/2019, [Grainger Library](https://goo.gl/QuNQ9V)
 
-Note that the CBTF scheduler may not yet be accepting proficiency exam
-reservations.
-<!---
-If not, check back later.
-<!---
-But it should be easy to find a time to take your exam on one of the available
-days.
 
-Please refer to the course-specific information below for instructions on how to sign up
-to take a proficiency exam in the CBTF.
--->
 
 ### <a name="restrictions" class="anchor"></a> General Restrictions
 
