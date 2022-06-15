@@ -52,39 +52,13 @@ Fall 2022 proficiency exams will be held around the start of
 fall classes.   Details will appear in late summer.
 
 <!-- -->
-As we get closer to the exam dates, more details will be added under the individual courses below.
+As we get closer to the exam dates, more details will be added under the individual courses below.   It's likely that some exams will be given online (e.g. with zoom proctoring) and some in-person.
 
-All CS proficiency exams will be given remotely.
-<!-- -->
-Proctoring will be done over Zoom.
-<!-- -->
-Sign-up and proctoring details and Zoom links will be posted below, under each individual course.
-<!-- -->
-Please check back for the most up-to-date information on the day of your exam.
 
 **Note that CS proficiency exams are no longer using the online CBTF.**
 <!-- -->
 So there is nothing to sign up for on the CBTF website.
 
-
-<!---
-The Spring 2020 mid-semester written proficiency exam will be held **Tuesday
-March 24th, 2020 from 7&ndash;10PM** in [DCL 1320](https://tinyurl.com/r5q8642).
-
-<!--- [Siebel 1404](https://goo.gl/fQwnq2). -->
-
-<!---
-As a reminder, the early-semester proficiency exam is restricted to
-incoming freshman and other students who were not on campus the prior semester.
-<!---
-So if you were registered for courses at the University of Illinois in Spring
-2019, you are not eligible to attend this proficiency exam seating.
-<!---
-If you think that you need an exemption from this policy, please email
-[<code>proficiency&#8209;exams@lists.cs.illinois.edu</code>](mailto:proficiency-exams@lists.cs.illinois.edu).
-<!---
-Note that "I want an exemption" is not alone a valid reason for receiving an
-exemption.
 
 Note that most proficiency exams are three hours in length.
 <!---
@@ -93,14 +67,6 @@ If you need extra time, please make arrangements to take the exam at
 [DRES](https://www.disability.illinois.edu/).
 
 **You must arrive on time to take a proficiency exam.**
-<!---
-If you arrive late you will not be seated.
--->
-
-
-
-
-
 
 
 ### <a name="restrictions" class="anchor"></a> General Restrictions
