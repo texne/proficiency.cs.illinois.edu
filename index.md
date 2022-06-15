@@ -60,14 +60,7 @@ As we get closer to the exam dates, more details will be added under the individ
 So there is nothing to sign up for on the CBTF website.
 
 
-Note that most proficiency exams are three hours in length.
-<!---
-If you need extra time, please make arrangements to take the exam at
-<!---
-[DRES](https://www.disability.illinois.edu/).
-
-**You must arrive on time to take a proficiency exam.**
-
+Note that most proficiency exams are three hours in length.   **You must arrive on time to take a proficiency exam.**
 
 ### <a name="restrictions" class="anchor"></a> General Restrictions
 
