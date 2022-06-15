@@ -173,9 +173,9 @@ We will accommodate any disabilities that have been registered with the [Divisio
 of Disability Resources and Educational Services
 (DRES)](https://www.disability.illinois.edu/).
 <!--- -->
-Please use their [online
-application](https://www.disability.illinois.edu/node/add/application-for-dres-services)
-to notify them of your disability and register for support services.
+Please register with DRES
+to notify them of your disability and get an official letter documenting the accommodations
+you require.
 <!--- -->
 **If you are new to the University of Illinois you should begin this process as
 soon as you are admitted.**
