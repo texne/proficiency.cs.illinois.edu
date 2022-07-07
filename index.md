@@ -197,8 +197,10 @@ Please bring your letter of accommodation to your exam.
 Many exams are using the CBTF online proctoring, in which case you should send
 your letter of accommodation to [Carleen Sacris](mailto:sacris1@illinois.edu).
 -->
-<!--- -->
-Please make sure to do so _before_ your exam begins.
+
+
+Please make these arrangements _before_ your exam begins.    In particular, for an extended-time 
+exam, you will need to know whether you are expected to arrive early or stay late.
 
 <!---
 You should make arrangements to take your proficiency exam in the DRES testing
