@@ -54,8 +54,9 @@ fall classes.   For Fall 2022, all exams will be 7-10pm.
 * Thursday August 18:  CS 101 and 124
 * Friday August 19:   CS 173
 * Saturday August 20:  CS 128 and 225
-* Monday August 22:  makeup date for CS 101 and CS 124
-* Tuesday August 23:  makeup date for CS 128, 173, and 225
+* Makeup dates in case you miss the main ones (no permission required)
+  * Monday August 22:  makeup date for CS 101 and CS 124
+  * Tuesday August 23:  makeup date for CS 128, 173, and 225
 
 <!-- -->
 As we get closer to the exam dates, more details will be added under the individual courses below.   It's likely that some exams will be given online (e.g. with zoom proctoring) and some in-person.
