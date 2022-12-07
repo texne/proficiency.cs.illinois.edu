@@ -48,18 +48,14 @@ times at the discretion of the department.
 
 ### <a name="next" class="anchor"></a> Next Proficiency Exam Dates and Times
 
-Fall 2022 proficiency exams will be held around the start of 
-fall classes.   For Fall 2022, all exams will be 7-10pm.
+Spring 2023 proficiency exams will be held around the start of 
+spring classes.   
 
-* Thursday August 18:  CS 101 and 124
-* Friday August 19:   CS 173
-* Saturday August 20:  CS 128 and 225
-* Makeup dates in case you miss the main ones (no permission required)
-  * Monday August 22:   CS 101 and CS 124
-  * Tuesday August 23:   CS 128, 173, and 225
+* Friday January 13th, 1:30-4:40pm
+* Tuesday January 17th, 7-10pm
 
 <!-- -->
-As we get closer to the exam dates, more details will be added under the individual courses below.   It's likely that some exams will be given online (e.g. with zoom proctoring) and some in-person.
+The exams will be given online with zoom proctoring.   As we get closer to the exam dates, details will be added under the individual courses below.  
 
 
 **Note that CS proficiency exams are no longer using the online CBTF.**
