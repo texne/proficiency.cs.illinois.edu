@@ -44,7 +44,7 @@ We will not grant proficiency credit for exams taken out of sequence.
 ### <a name="scheduling" class="anchor"></a> Scheduling
 
 Proficiency exams are offered at the beginning of each semester, and at other
-times at the discretion of the department.
+times at the discretion of the department.  
 
 ### <a name="next" class="anchor"></a> Next Proficiency Exam Dates and Times
 
