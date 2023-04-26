@@ -48,14 +48,14 @@ times at the discretion of the department.
 
 ### <a name="next" class="anchor"></a> Next Proficiency Exam Dates and Times
 
-Spring 2023 proficiency exams will be held around the start of 
-spring classes.   
-
-* Friday January 13th, 1:30-4:40pm
-* Tuesday January 17th, 7-10pm
+Fall 2023 proficiency exams will be held around the start of 
+spring classes.   We plan to administer the exams in-person, 
+in the CBTF, our computer-based testing facility, late in freshman orientation week
+continuing into early in the first week of classes.  Information on signing up for
+a time in the CBTF will be posted in early August.
 
 <!-- -->
-The exams will be given online with zoom proctoring.   As we get closer to the exam dates, details will be added under the individual courses below.  
+As we get closer to the exam dates, details will be added under the individual courses below.
 
 
 **Note that CS proficiency exams are no longer using the online CBTF.**
