@@ -57,13 +57,7 @@ a time in the CBTF will be posted in early August.
 <!-- -->
 As we get closer to the exam dates, details will be added under the individual courses below.
 
-
-**Note that CS proficiency exams are no longer using the online CBTF.**
-<!-- -->
-So there is nothing to sign up for on the CBTF website.
-
-
-Note that most proficiency exams are three hours in length.   **You must arrive on time to take a proficiency exam.**
+Our proficiency exams are three or three hours in length, depending on the exam.   **You must arrive on time to take a proficiency exam.**
 
 ### <a name="restrictions" class="anchor"></a> General Restrictions
 
