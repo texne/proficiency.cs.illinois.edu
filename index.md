@@ -49,7 +49,7 @@ times at the discretion of the department.
 ### <a name="next" class="anchor"></a> Next Proficiency Exam Dates and Times
 
 Fall 2023 proficiency exams will be held around the start of 
-spring classes.   We plan to administer the exams in-person, 
+fall classes.   We plan to administer the exams in-person, 
 in the CBTF, our computer-based testing facility, late in freshman orientation week
 continuing into early in the first week of classes.  Information on signing up for
 a time in the CBTF will be posted in early August.
