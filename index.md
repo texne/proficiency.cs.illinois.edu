@@ -38,9 +38,9 @@ Due to factors beyond our control often affecting our arrangements, we will wait
 
 Fall 2023 proficiency exams will be held around the start of 
 fall classes.   We plan to administer the exams in-person, 
-in the CBTF, our computer-based testing facility, late in freshman orientation week
-continuing into early in the first week of classes.  Information on signing up for
-a time in the CBTF will be posted in early August.
+in our computer-based testing facility (the CBTF).  We anticipate that sign-up slots
+will be available from late in freshman orientation week
+continuing into early in the first week of classes.  
 
 <!-- -->
 As we get closer to the exam dates, details will be added under the individual courses below.
@@ -104,8 +104,11 @@ taken CS 374, since it is in the same area as CS 173.
 As another example, you may not receive proficiency credit for CS 124 if you
 have already taken CS 128, for the same reason.
 <!--- -->
-Instead of taking the proficiency exam, you may be required to substitute other
-later courses to fulfill your degree requirements.
+In this situation, you may be required to substitute other
+later courses to fulfill your degree requirements.   Consult your departmental
+advisor about whether to take the proficiency exam to verify your knowledge, even
+though you can't get credit, and 
+also to find out what substitute courses are appropriate.
 <!--- -->
 1. **Graduate students generally may only take Illinois Computer Science proficiency exams when
 required to satisfy another degree program on our campus.**
