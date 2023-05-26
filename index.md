@@ -23,7 +23,7 @@ courses, you may receive credit and satisfy prerequisites by taking a
 <!--- -->
 <p class="alert alert-warning" markdown="1">
 <!--- -->
-Due to uncontrollable factors sometimes changing the university's move-in arrangements, we will wait until about a month before the start of each term to pin down details (e.g. dates, are any exams offered online).   At that point, we will update the information below so that it reflects the upcoming term.  
+Due to factors beyond our control often affecting our arrangements, we will wait until a few weeks before the start of each term to pin down details such as the exact dates/times and sign-up information.   Expect full informaiton to appear around the start of August (fall exams) or the start of January (spring exams).
 </p>
 
 <!--- -->
