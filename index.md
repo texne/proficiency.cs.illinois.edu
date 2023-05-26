@@ -1,6 +1,11 @@
 ---
 title: Illinois CS Proficiency Exams
 ---
+<p class="lead" markdown="1">
+<!--- -->
+If you have already mastered the material covered in certain Illinois Computer Science
+courses, you may receive credit and satisfy prerequisites by taking a
+*proficiency exam*.
 
 <p class="alert alert-warning" markdown="1">
 <!--- -->
@@ -13,16 +18,7 @@ The exams are held around the start of classes each fall and spring, with any in
 <!--- -->
 </p>
 
-<p class="lead" markdown="1">
-<!--- -->
-If you have already mastered the material covered in certain Illinois Computer Science
-courses, you may receive credit and satisfy prerequisites by taking a
-*proficiency exam*.
-<!--- -->
-Here you will find details about how to prepare and sign up for Illinois CS
-proficiency exams.
-<!--- -->
-</p>
+
 
 ### <a name="next" class="anchor"></a> Next Proficiency Exam Dates and Times
 
