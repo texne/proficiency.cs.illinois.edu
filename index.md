@@ -24,6 +24,17 @@ proficiency exams.
 <!--- -->
 </p>
 
+### <a name="next" class="anchor"></a> Next Proficiency Exam Dates and Times
+
+Fall 2023 proficiency exams will be held around the start of 
+fall classes.   We plan to administer the exams in-person, 
+in the CBTF, our computer-based testing facility, late in freshman orientation week
+continuing into early in the first week of classes.  Information on signing up for
+a time in the CBTF will be posted in early August.
+
+<!-- -->
+As we get closer to the exam dates, details will be added under the individual courses below.
+
 ## <a name="overview" class="anchor"></a> Overview
 
 Proficiency exams are similar in coverage and scope to a comprehensive
@@ -41,21 +52,9 @@ Results are available immediately for the CS 124 and CS 128 exams, so you'll
 know whether you can continue with the sequence.
 We will not grant proficiency credit for exams taken out of sequence.
 
-### <a name="scheduling" class="anchor"></a> Scheduling
 
-Proficiency exams are offered at the beginning of each semester, and at other
-times at the discretion of the department.  
 
-### <a name="next" class="anchor"></a> Next Proficiency Exam Dates and Times
-
-Fall 2023 proficiency exams will be held around the start of 
-fall classes.   We plan to administer the exams in-person, 
-in the CBTF, our computer-based testing facility, late in freshman orientation week
-continuing into early in the first week of classes.  Information on signing up for
-a time in the CBTF will be posted in early August.
-
-<!-- -->
-As we get closer to the exam dates, details will be added under the individual courses below.
+### <a name="next" class="anchor"></a> Exam Format
 
 Our proficiency exams are three or three hours in length, depending on the exam.   **You must arrive on time to take a proficiency exam.**
 
