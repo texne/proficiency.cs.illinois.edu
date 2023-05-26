@@ -20,13 +20,16 @@ courses, you may receive credit and satisfy prerequisites by taking a
   
    * In both fall and spring, there are also makeup dates early in the first week of classes.
 
+<!--- -->
 </p><p class="alert alert-warning" markdown="1">
+<!--- -->
 Due to uncontrollable factors sometimes changing the university's move-in arrangements, we will wait until about a month before the start of each term to pin down details (e.g. dates, are any exams offered online).   At that point, we will update the information below so that it reflects the upcoming term.   
 
+<!--- -->
 </p><p class="alert alert-warning" markdown="1">
+<!--- -->
 **Please watch this web page for the latest information.**
 <!--- -->
-</p>
 
 
 
