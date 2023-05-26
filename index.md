@@ -23,7 +23,7 @@ courses, you may receive credit and satisfy prerequisites by taking a
 <!--- -->
 <p class="alert alert-warning" markdown="1">
 <!--- -->
-Due to factors beyond our control often affecting our arrangements, we will wait until a few weeks before the start of each term to pin down details such as the exact dates/times and sign-up information.   Expect full informaiton to appear around the start of August (fall exams) or the start of January (spring exams).
+Due to factors beyond our control often affecting our arrangements, we will wait until a few weeks before the start of each term to pin down details such as the exact dates/times and sign-up information.   Expect full information to appear around the start of August (fall exams) or the start of January (spring exams).
 </p>
 
 <!--- -->
