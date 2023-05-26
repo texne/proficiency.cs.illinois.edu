@@ -13,7 +13,7 @@ courses, you may receive credit and satisfy prerequisites by taking a
 <!--- -->
 **CS proficiency exams are given at the start of Fall and Spring semesters.**
 </p><p class="alert alert-warning" markdown="1">
-The exams are held around the start of classes each fall and spring, with any in-person exams being held after dorms open.  Due to uncontrollable factors sometimes changing the university's move-in arrangements, we will wait until about a month before the start of each term to pin down details (e.g. dates, are any exams offered online).   At that point, we will update the information below so that it reflects the upcoming term.   
+Fall proficiency exams are held during freshman orientation week (aka the week before classes start in August).   Spring proficiency exams are held late in the week before classes start in January).   In both cases, there are also makeup dates early in the first week of classes.   Due to uncontrollable factors sometimes changing the university's move-in arrangements, we will wait until about a month before the start of each term to pin down details (e.g. dates, are any exams offered online).   At that point, we will update the information below so that it reflects the upcoming term.   
 
 </p><p class="alert alert-warning" markdown="1">
 **Please watch this web page for the latest information.**
