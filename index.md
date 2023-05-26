@@ -6,7 +6,9 @@ title: Illinois CS Proficiency Exams
 If you have already mastered the material covered in certain Illinois Computer Science
 courses, you may receive credit and satisfy prerequisites by taking a
 *proficiency exam*.
+</p>
 
+<!--- -->
 <p class="alert alert-warning" markdown="1">
 <!--- -->
 **CS proficiency exams are given at the start of Fall and Spring semesters.**
