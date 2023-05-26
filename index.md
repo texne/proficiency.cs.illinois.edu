@@ -66,7 +66,7 @@ We will not grant proficiency credit for exams taken out of sequence.
 
 ### <a name="next" class="anchor"></a> Exam Format
 
-Our proficiency exams are three or three hours in length, depending on the exam.   **You must arrive on time to take a proficiency exam.**
+Our proficiency exams are two or three hours in length, depending on the exam.   **You must arrive on time to take a proficiency exam.**
 
 ### <a name="restrictions" class="anchor"></a> General Restrictions
 
