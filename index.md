@@ -12,9 +12,7 @@ courses, you may receive credit and satisfy prerequisites by taking a
 <p class="alert alert-warning" markdown="1">
 <!--- -->
 **CS proficiency exams are given at the start of Fall and Spring semesters.**
-<!--- -->
-<p class="alert alert-warning" markdown="1">
-Specifically
+</p>
 
   * Fall proficiency exams are held during freshman orientation week (aka the week before classes start in August).  
   
