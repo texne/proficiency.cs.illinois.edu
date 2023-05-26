@@ -31,7 +31,7 @@ Due to uncontrollable factors sometimes changing the university's move-in arrang
 <!--- -->
 **Please watch this web page for the latest information.**
 <!--- -->
-<p>
+</p>
 
 
 ### <a name="next" class="anchor"></a> Next Proficiency Exam Dates and Times
