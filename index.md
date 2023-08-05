@@ -41,6 +41,8 @@ The sign-up process is as follows:
    * Plan on a 1-2 day delay for us to get you onto the roster(s) for your chosen exam(s).   
    * Sign up for a specific test time on PrairieTest via [the CBTF's website](https://cbtf.engr.illinois.edu/).
 
+Yes, this is a bit clumsy.   We're working around some technical issues beyond our control.
+
 <!-- -->
 
 ### <a name="dres" class="anchor"></a> Disability Accommodations
