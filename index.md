@@ -107,7 +107,7 @@ as other people adjust their schedules and we release any unneeded heldback seat
 try to stay caught up with the course you are hoping to add.
 
 It may take several weeks for proficiency credit to appear on your official transcript.
-However you can adjust your schedule right away.
+However you can adjust your schedule right away.   Only passing results appear on your transcript.   
 
 
 ### <a name="restrictions" class="anchor"></a> General Restrictions
