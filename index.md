@@ -56,59 +56,7 @@ same subject area.   So we expect performance at the B- level or above.
 
  **You must arrive on time to take a proficiency exam.**
 
-### <a name="restrictions" class="anchor"></a> General Restrictions
-
-In certain cases you may not be eligible to take a proficiency exam.
-<!--- -->
-You are responsible for understanding these conditions.
-<!--- -->
-**We will not attempt to determine whether you are eligible to take a
-proficiency exam before you take it.**
-<!--- -->
-You will only find out later that you will not receive credit.
-<!--- -->
-So please review these restrictions carefully.
-
-1. **You may not take a proficiency exam for a course that you have already
-received a grade for.**
-<!--- -->
-This is true even if it was a failing grade.
-<!--- -->
-1. **You may only take each proficiency exam once in a 12-month period.**
-<!--- -->
-So, once you take a proficiency exam, you must wait a full year to retake the
-same exam.
-<!--- -->
-If you attempt the same exam before the year is up, your score will not be counted.
-<!--- -->
-This restriction applies regardless of how the proficiency exam is given.
-<!--- -->
-1. **You may not receive proficiency credit for a course if you have taken a
-course in the same area.**
-<!--- -->
-For example, you may not receive proficiency credit for CS 173 if you have already
-taken CS 374, since it is in the same area as CS 173.
-<!--- -->
-As another example, you may not receive proficiency credit for CS 124 if you
-have already taken CS 128, for the same reason.
-<!--- -->
-In this situation, you may be required to substitute other
-later courses to fulfill your degree requirements.   Consult your departmental
-advisor about whether to take the proficiency exam to verify your knowledge, even
-though you can't get credit, and 
-also to find out what substitute courses are appropriate.
-<!--- -->
-1. **Graduate students generally may only take Illinois Computer Science proficiency exams when
-required to satisfy another degree program on our campus.**
-<!--- -->
-Please have your advisor contact the CS academic office to obtain permission if needed.
-
-Other course-specific restrictions may also apply.
-<!--- -->
-Please consult the [information below specific to the proficiency exams you plan
-to take](#courses) for more details.
-
-### <a name="taking" class="anchor"></a> Taking Your Proficiency Exam
+ ### <a name="taking" class="anchor"></a> Taking Your Proficiency Exam
 
 To take a Zoom-proctored proficiency exam first sign up if your exam requires
 it (see specific course information below), then join the posted zoom
@@ -174,6 +122,60 @@ your letter of accommodation to [Carleen Sacris](mailto:sacris1@illinois.edu).
 Please make these arrangements _before_ your exam begins.    In particular, for an extended-time 
 exam, you will need to know whether you are expected to arrive early or stay late.
 
+
+
+
+### <a name="restrictions" class="anchor"></a> General Restrictions
+
+In certain cases you may not be eligible to take a proficiency exam.
+<!--- -->
+You are responsible for understanding these conditions.
+<!--- -->
+**We will not attempt to determine whether you are eligible to take a
+proficiency exam before you take it.**
+<!--- -->
+You will only find out later that you will not receive credit.
+<!--- -->
+So please review these restrictions carefully.
+
+1. **You may not take a proficiency exam for a course that you have already
+received a grade for.**
+<!--- -->
+This is true even if it was a failing grade.
+<!--- -->
+1. **You may only take each proficiency exam once in a 12-month period.**
+<!--- -->
+So, once you take a proficiency exam, you must wait a full year to retake the
+same exam.
+<!--- -->
+If you attempt the same exam before the year is up, your score will not be counted.
+<!--- -->
+This restriction applies regardless of how the proficiency exam is given.
+<!--- -->
+1. **You may not receive proficiency credit for a course if you have taken a
+course in the same area.**
+<!--- -->
+For example, you may not receive proficiency credit for CS 173 if you have already
+taken CS 374, since it is in the same area as CS 173.
+<!--- -->
+As another example, you may not receive proficiency credit for CS 124 if you
+have already taken CS 128, for the same reason.
+<!--- -->
+In this situation, you may be required to substitute other
+later courses to fulfill your degree requirements.   Consult your departmental
+advisor about whether to take the proficiency exam to verify your knowledge, even
+though you can't get credit, and 
+also to find out what substitute courses are appropriate.
+<!--- -->
+1. **Graduate students generally may only take Illinois Computer Science proficiency exams when
+required to satisfy another degree program on our campus.**
+<!--- -->
+Please have your advisor contact the CS academic office to obtain permission if needed.
+
+Other course-specific restrictions may also apply.
+<!--- -->
+Please consult the [information below specific to the proficiency exams you plan
+to take](#courses) for more details.
 
 
 ### <a name="questions" class="anchor"></a> Questions or Concerns
