@@ -42,8 +42,18 @@ The sign-up process is as follows:
    * Sign up for a specific test time on PrairieTest via [the CBTF's website](https://cbtf.engr.illinois.edu/).
 
 <!-- -->
-If you have a disability accommodation (DRES) letter, please follow the instructions on 
-[the CBTF FAQ page](https://cbtf.illinois.edu/students/faq) to submit your letter to the CBTF.   **Do that now**, since they need 5 business days to process it
+If you have an accommodation letter from the [Division
+of Disability Resources and Educational Services
+(DRES)](https://www.disability.illinois.edu/),
+please follow the instructions on 
+[the CBTF FAQ page](https://cbtf.illinois.edu/students/faq) to submit your letter to the CBTF.   **Do that now**, since they need 5 business days to process the letter and set up your accommodations.
+
+If you need disability-related accommodations and do not yet have a DRES letter, contact DRES as soon as possible
+to start the process of getting an official letter.  
+If you have a strong grasp of the material in an early CS course, you may be ok taking the proficiency exam
+without your normal accommodation (though obviously we'd prefer to have the official paperwork so we can give you the
+best environment for taking the exam).   However, an official letter can be critical when you take harder courses and 
+there can be delays working through the paperwork to get one.
 
 ## <a name="overview" class="anchor"></a> Exam format
 
@@ -86,37 +96,6 @@ It may take several weeks for proficiency credit to appear on your official tran
 However, results are transmitted very quickly to the CS academic office so that we can
 issue appropriate overrides for updating your registration.
 
-### <a name="disabilities" class="anchor"></a> Information for Students with Disabilities
-
-We will accommodate any disabilities that have been registered with the [Division
-of Disability Resources and Educational Services
-(DRES)](https://www.disability.illinois.edu/).
-<!--- -->
-Please register with DRES
-to notify them of your disability and get an official letter documenting the accommodations
-you require.
-<!--- -->
-**If you are new to the University of Illinois you should begin this process as
-soon as you are admitted.**
-
-If you qualify for testing-related accommodations, please review the
-information below for the specific proficiency exams that you plan on taking.
-<!--- -->
-Instructions should be provided for how to communicate your accommodation
-request.
-<!--- -->
-Please bring your letter of accommodation to your exam.
-<!---
-Many exams are using the CBTF online proctoring, in which case you should send
-your letter of accommodation to [Carleen Sacris](mailto:sacris1@illinois.edu).
--->
-
-
-Please make these arrangements _before_ your exam begins.    In particular, for an extended-time 
-exam, you will need to know whether you are expected to arrive early or stay late.
-
-
-
 
 ### <a name="restrictions" class="anchor"></a> General Restrictions
 
@@ -136,7 +115,7 @@ received a grade for.**
 <!--- -->
 This is true even if it was a failing grade.
 <!--- -->
-1. **You may only take each proficiency exam once in a 12-month period.**
+2. **You may only take each proficiency exam once in a 12-month period.**
 <!--- -->
 So, once you take a proficiency exam, you must wait a full year to retake the
 same exam.
@@ -145,7 +124,7 @@ If you attempt the same exam before the year is up, your score will not be count
 <!--- -->
 This restriction applies regardless of how the proficiency exam is given.
 <!--- -->
-1. **You may not receive proficiency credit for a course if you have taken a
+3. **You may not receive proficiency credit for a course if you have taken a
 course in the same area.**
 <!--- -->
 For example, you may not receive proficiency credit for CS 173 if you have already
@@ -160,10 +139,10 @@ advisor about whether to take the proficiency exam to verify your knowledge, eve
 though you can't get credit, and 
 also to find out what substitute courses are appropriate.
 <!--- -->
-1. **Graduate students generally may only take Illinois Computer Science proficiency exams when
+4. **Graduate students generally may only take Illinois Computer Science proficiency exams when
 required to satisfy another degree program on our campus.**
 <!--- -->
-Please have your advisor contact the CS academic office to obtain permission if needed.
+This is extremely rare.   Please have your advisor contact the CS academic office to obtain special permission to take the exam.
 
 Other course-specific restrictions may also apply.
 <!--- -->
