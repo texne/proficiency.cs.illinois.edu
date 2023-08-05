@@ -14,16 +14,16 @@ courses, you may receive credit and satisfy prerequisites by taking a
 **CS proficiency exams are given at the start of Fall and Spring semesters.**
 </p>
 
-  * Fall proficiency exams are held during freshman orientation week (aka the week before classes start in August).  
+  * Fall proficiency exams are held during freshman orientation week.
   
    * Spring proficiency exams are held late in the week before classes start in January.   
   
-   * In both fall and spring, there are also makeup dates early in the first week of classes.
+   * In both fall and spring, there are also additional dates during the first week of classes.
 
 <!--- -->
 <p class="alert alert-warning" markdown="1">
 <!--- -->
-Due to factors beyond our control often affecting our arrangements, we will wait until a few weeks before the start of each term to pin down details such as the exact dates/times and sign-up information.   Expect full information to appear around the start of August (fall exams) or the start of January (spring exams).
+Detailed information about each exam (e.g. dates) is typically posted several weeks before the start of each term.   Sign-up details usually appear a week or two before the first exam date.   
 </p>
 
 <!--- -->
@@ -138,27 +138,8 @@ have one.
 **If you show up late or without proper identification, you will not be able to
 complete the exam.**
 
-<!--
-You may attempt multiple different proficiency exams during one written exam
-sitting.
 
-However, each exam period finishes promptly at the times [indicated
-above](#next), so you will need to work quickly to complete multiple exams in
-the time allotted.
--->
 
-**CS proficiency exams are using Zoom proctoring but not the online CBTF.**
-<!--- -->
-However, you should still review the online CBTF instructions for how to set up
-your environment to enable Zoom proctoring.
-<!--- -->
-Review [this
-overview](https://d1b10bmlvqabco.cloudfront.net/paste/gxtm38rc1kx1l1/63f0a107df4734a1a567e4dce8feac5ae56052402202b8a91b10375ff48b9865/Student_Instructions.pdf)
-and [these instructions for phone
-positioning](https://d1b10bmlvqabco.cloudfront.net/paste/gxtm38rc1kx1l1/3ce9074b49070335c40d2c0d1365c7edcb39debd5a37755654f7337a62ffc289/How_to_Position_Your_Phone.pdf).
-<!--- -->
-You will need Zoom installed on your phone and configured to use your Illinois
-account.
 
 ### <a name="results" class="anchor"></a> Receiving Your Results
 
@@ -206,15 +187,7 @@ your letter of accommodation to [Carleen Sacris](mailto:sacris1@illinois.edu).
 Please make these arrangements _before_ your exam begins.    In particular, for an extended-time 
 exam, you will need to know whether you are expected to arrive early or stay late.
 
-<!---
-You should make arrangements to take your proficiency exam in the DRES testing
-center by contacting
-<!---
-[<code>proficiency&#8209;exams@lists.cs.illinois.edu</code>](mailto:proficiency-exams@lists.cs.illinois.edu).
-<!---
-In your email be sure to indicate which proficiency exam (or exams) you wish to
-take, and include a copy of your DRES letter documenting your accommodations.
--->
+
 
 ### <a name="questions" class="anchor"></a> Questions or Concerns
 
