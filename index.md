@@ -85,7 +85,7 @@ complete the exam.**
 
 ### <a name="results" class="anchor"></a> Receiving Your Results
 
-For the CS 124 and 128 exams are entirely autograded, so
+The CS 124 and 128 exams are entirely autograded, so
 you will find out immediately whether you passed.   Some of
 the other exams include some manually-graded questions,
 so it may take several days before your exam is graded.  In
