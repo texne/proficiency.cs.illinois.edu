@@ -35,18 +35,18 @@ Detailed information about each exam (e.g. dates) is typically posted several we
 
 Fall 2023 proficiency exams will be held in-person at
 our computer-based testing facility (the CBTF) between August 14th and 25th.   
-Sign-up will be a two-step process:   
+The sign-up process is as follows:   
 
-   * Use a form (appearing here soon) to get onto the proficiency course roster.
-   * Then sign up for a specific test time at the CBTF.
+   * Use [this form](https://forms.illinois.edu/sec/1454078509) to tell us which exams you plan to take.   Please do this as early as possible but no later than Wednesday August 23rd.
+   * Plan on a 1-2 day delay for us to get you onto the roster(s) for your chosen exam(s).   
+   * Sign up for a specific test time on PrairieTest via the [the CBTF's website](https://cbtf.engr.illinois.edu/).
 
 <!-- -->
-Details will appear here soon.
 
-## <a name="overview" class="anchor"></a> Overview
+## <a name="overview" class="anchor"></a> Exam format
 
 Proficiency exams are similar in coverage and scope to a comprehensive
-final exam.
+final exam.   They are two or three hours long, depending on the course.
 <!--- -->
 They are intended to ensure that you are well-prepared for later courses in the
 same subject area.   So we expect performance at the B- level or above.
@@ -54,11 +54,7 @@ same subject area.   So we expect performance at the B- level or above.
 **Specific passing criteria are at the discretion of each course instructor.**
 <!--- -->
 
-
-
-### <a name="next" class="anchor"></a> Exam Format
-
-Our proficiency exams are two or three hours in length, depending on the exam.   **You must arrive on time to take a proficiency exam.**
+ **You must arrive on time to take a proficiency exam.**
 
 ### <a name="restrictions" class="anchor"></a> General Restrictions
 
