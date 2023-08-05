@@ -94,9 +94,18 @@ supervising the exam.
 
 Proficiency results are pass/no-pass only.    You will not receive detailed feedback.
 
+Results are transmitted very quickly to the CS academic office.    The CS advisors will 
+reach out to you with override information necessary for getting into later courses.
+Please be patient because they are typically working through a long list of students.
+
+We have seats held back in the early core courses for incoming majors who pass proficiency
+exams.  Non-majors should keep an eye on the registration system if they cannot immediately
+get a seat in the later course.   Seats do appear during the first week of classes
+as other people adjust their schedules and we release any unneeded heldback seats.   Meanwhile,
+try to stay caught up with the course you are hoping to add.
+
 It may take several weeks for proficiency credit to appear on your official transcript.
-However, results are transmitted very quickly to the CS academic office so that we can
-issue appropriate overrides for updating your registration.
+However you can adjust your schedule right away.
 
 
 ### <a name="restrictions" class="anchor"></a> General Restrictions
