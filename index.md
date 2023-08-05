@@ -34,14 +34,19 @@ Detailed information about each exam (e.g. dates) is typically posted several we
 ### <a name="next" class="anchor"></a> Next Proficiency Exam Dates and Times
 
 Fall 2023 proficiency exams will be held in-person at
-our computer-based testing facility (the CBTF) between August 14th and 25th.   
-The sign-up process is as follows:   
+our computer-based testing facility (the CBTF) between August 14th and 25th.   The sign-up process is as follows:   
 
    * Use [this form](https://forms.illinois.edu/sec/1454078509) to tell us which exams you plan to take.   Please do this as early as possible but no later than Wednesday August 23rd.
    * Plan on a 1-2 day delay for us to get you onto the roster(s) for your chosen exam(s).   
    * Sign up for a specific test time on PrairieTest via [the CBTF's website](https://cbtf.engr.illinois.edu/).
 
 Yes, this is a bit clumsy.   We're working around some technical issues beyond our control.
+
+It's ok to fill out [this form](https://forms.illinois.edu/sec/1454078509)
+a second time if you need to revise your selection, e.g. add a later exam because you passed an 
+earlier one.   However, to avoid delays, please give us the full list of exams you believe you are likely to take.   
+For example, if you are confident you can pass the CS 124 
+proficiency and think it's likely you can also pass the CS 128 exam, tell us that you plan to take both.    
 
 <!-- -->
 
