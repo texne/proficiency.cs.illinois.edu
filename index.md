@@ -52,9 +52,10 @@ please follow the instructions on
 [the CBTF FAQ page](https://cbtf.illinois.edu/students/faq) to submit your letter to the CBTF.   **Do that now**, since they need 5 business days to process the letter and set up your accommodations.
 
 If you need disability-related accommodations and do not yet have a DRES letter, contact DRES as soon as possible
-to start the process of getting an official letter.  If you have a strong grasp of the material in an early CS course, you may be ok taking the proficiency exam
-without your normal accommodation (though obviously we'd prefer to have the official paperwork so we can give you the
-best environment for taking the exam).   However, an official letter can be critical when you take harder courses and 
+to start the process of getting an official letter.  If you have a strong grasp of the material in an early CS course, 
+you may be ok taking the proficiency exam without your normal accommodation (though obviously we'd prefer to have 
+the official paperwork so we can give you the best environment for taking the exam).   
+However, an official letter can be critical when you take harder courses and 
 there can be delays working through the paperwork to get one.
 
 ## <a name="overview" class="anchor"></a> Exam format
