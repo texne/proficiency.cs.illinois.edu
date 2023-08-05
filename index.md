@@ -44,8 +44,8 @@ Yes, this is a bit clumsy.   We're working around some technical issues beyond o
 
 It's ok to fill out [this form](https://forms.illinois.edu/sec/1454078509)
 a second time if you need to revise your selection, e.g. add a later exam because you passed an 
-earlier one.   However, to avoid delays, please give us the full list of exams you believe you are likely to take.   
-For example, if you are confident you can pass the CS 124 
+earlier one.   However, to avoid delays, please give us the full list of exams you believe you are likely to take.   For 
+example, if you are confident you can pass the CS 124 
 proficiency and think it's likely you can also pass the CS 128 exam, tell us that you plan to take both.    
 
 <!-- -->
