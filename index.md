@@ -141,10 +141,8 @@ This restriction applies regardless of how the proficiency exam is given.
 course in the same topic area.**
 <!--- -->
 For example, you may not receive proficiency credit for CS 173 if you have already
-taken CS 374, since it is in the same area as CS 173.
-<!--- -->
-As another example, you may not receive proficiency credit for CS 124 if you
-have already taken CS 128, for the same reason.
+taken CS 374, since it is in the same area as CS 173.  Similarly, you may not receive proficiency credit for CS 124 if you
+have already taken CS 128.
 <!--- -->
 In this situation, you may be required to substitute other
 later courses to fulfill your degree requirements.   Consult your departmental
@@ -155,7 +153,7 @@ also to find out what substitute courses are appropriate.
 4. **Graduate students generally may only take Illinois Computer Science proficiency exams when
 required to satisfy another degree program on our campus.**
 <!--- -->
-This is extremely rare.   Please have your advisor contact the CS academic office to obtain special permission to take the exam.
+It is extremely rare for a graduate student to need to take one of these exams.   If you are one of the rare exceptions, please have your advisor contact the CS academic office to obtain special permission to take the exam.
 
 Other course-specific restrictions may also apply.
 <!--- -->
