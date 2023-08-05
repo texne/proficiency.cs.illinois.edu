@@ -39,35 +39,28 @@ The sign-up process is as follows:
 
    * Use [this form](https://forms.illinois.edu/sec/1454078509) to tell us which exams you plan to take.   Please do this as early as possible but no later than Wednesday August 23rd.
    * Plan on a 1-2 day delay for us to get you onto the roster(s) for your chosen exam(s).   
-   * Sign up for a specific test time on PrairieTest via the [the CBTF's website](https://cbtf.engr.illinois.edu/).
+   * Sign up for a specific test time on PrairieTest via [the CBTF's website](https://cbtf.engr.illinois.edu/).
 
 <!-- -->
+If you have a disability accommodation (DRES) letter, please follow the instructions on 
+[the CBTF FAQ page](https://cbtf.illinois.edu/students/faq) to submit your letter to the CBTF.   **Do that now**, since they need 5 business days to process it
 
 ## <a name="overview" class="anchor"></a> Exam format
 
 Proficiency exams are similar in coverage and scope to a comprehensive
-final exam.   They are two or three hours long, depending on the course.
-<!--- -->
+final exam and are two or three hours long (depending on the course).
 They are intended to ensure that you are well-prepared for later courses in the
 same subject area.   So we expect performance at the B- level or above.
 <!--- -->
 **Specific passing criteria are at the discretion of each course instructor.**
 <!--- -->
 
- **You must arrive on time to take a proficiency exam.**
+
 
  ### <a name="taking" class="anchor"></a> Taking Your Proficiency Exam
 
-To take a Zoom-proctored proficiency exam first sign up if your exam requires
-it (see specific course information below), then join the posted zoom
-session at
-one of the scheduled exam times.
-<!---
-To take a computer-based proficiency exam you must schedule a time with the
-[CBTF](https://cbtf.engr.illinois.edu/).
--->
-<!--- -->
-You must bring your University of Illinois ID to the proficiency exam, if you
+See [the CBTF's website](https://cbtf.engr.illinois.edu/) for the testing locations and other important information.
+You must arrive on time and bring your University of Illinois ID to the proficiency exam, if you
 have one.
 <!--- -->
 **If you show up late or without proper identification, you will not be able to
