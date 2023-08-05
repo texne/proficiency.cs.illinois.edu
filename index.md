@@ -137,8 +137,8 @@ If you attempt the same exam before the year is up, your score will not be count
 <!--- -->
 This restriction applies regardless of how the proficiency exam is given.
 <!--- -->
-3. **You may not receive proficiency credit for a course if you have taken a
-course in the same area.**
+3. **You may not receive proficiency credit for a course if you have taken a later
+course in the same topic area.**
 <!--- -->
 For example, you may not receive proficiency credit for CS 173 if you have already
 taken CS 374, since it is in the same area as CS 173.
