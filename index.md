@@ -16,7 +16,7 @@ courses, you may receive credit and satisfy prerequisites by taking a
 
   * Fall proficiency exams are held during freshman orientation week.
   
-   * Spring proficiency exams are held late in the week before classes start in January.   
+   * Spring proficiency exams are held the week before classes start in January.   
   
    * In both fall and spring, there are also additional dates during the first week of classes.
 
