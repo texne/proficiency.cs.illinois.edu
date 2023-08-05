@@ -42,6 +42,9 @@ The sign-up process is as follows:
    * Sign up for a specific test time on PrairieTest via [the CBTF's website](https://cbtf.engr.illinois.edu/).
 
 <!-- -->
+
+### <a name="dres" class="anchor"></a> Disability Accommodations
+
 If you have an accommodation letter from the [Division
 of Disability Resources and Educational Services
 (DRES)](https://www.disability.illinois.edu/),
