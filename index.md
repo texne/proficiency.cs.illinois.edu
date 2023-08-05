@@ -69,8 +69,6 @@ same subject area.   So we expect performance at the B- level or above.
 **Specific passing criteria are at the discretion of each course instructor.**
 <!--- -->
 
-
-
 ### <a name="taking" class="anchor"></a> Taking Your Proficiency Exam
 
 See [the CBTF's website](https://cbtf.engr.illinois.edu/) for the testing locations and other important information.
