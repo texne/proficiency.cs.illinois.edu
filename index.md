@@ -59,7 +59,7 @@ you may be ok taking the proficiency exam without your normal accommodation (tho
 the official paperwork so we can give you the best environment for taking the exam).   However, an official letter can 
 be critical when you take harder courses and there can be delays working through the paperwork to get one.
 
-## <a name="overview" class="anchor"></a> Exam format
+### <a name="overview" class="anchor"></a> Exam format
 
 Proficiency exams are similar in coverage and scope to a comprehensive
 final exam and are two or three hours long (depending on the course).
@@ -71,7 +71,7 @@ same subject area.   So we expect performance at the B- level or above.
 
 
 
- ### <a name="taking" class="anchor"></a> Taking Your Proficiency Exam
+### <a name="taking" class="anchor"></a> Taking Your Proficiency Exam
 
 See [the CBTF's website](https://cbtf.engr.illinois.edu/) for the testing locations and other important information.
 You must arrive on time and bring your University of Illinois ID to the proficiency exam, if you
