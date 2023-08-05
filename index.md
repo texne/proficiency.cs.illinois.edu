@@ -21,17 +21,14 @@ courses, you may receive credit and satisfy prerequisites by taking a
    * In both fall and spring, there are also additional dates during the first week of classes.
 
 <!--- -->
-<p class="alert alert-warning" markdown="1">
-<!--- -->
-Detailed information about each exam (e.g. dates) is typically posted several weeks before the start of each term.   Sign-up details usually appear a week or two before the first exam date.   
-</p>
+It is best to take each exam at the earliest date that works for you, so that you can easily rework your class schedule and get caught up if you pass the exam.    The exams for the three core programming courses (CS 124, CS 128, CS 225) must be taken in order.  The first two exams (CS 124 and CS 128) are autograded, so you will know immediately whether you have passed and should consider attempting the next exam in the sequence.
 
 <!--- -->
 <p class="alert alert-warning" markdown="1">
 <!--- -->
-**Please watch this web page for the latest information.**
-<!--- -->
+Detailed information about each exam (e.g. dates) is typically posted several weeks before the start of each term.   Sign-up details usually appear a week or two before the first exam date.   Watch this page for the latest information.
 </p>
+
 
 
 ### <a name="next" class="anchor"></a> Next Proficiency Exam Dates and Times
@@ -56,12 +53,6 @@ same subject area.   So we expect performance at the B- level or above.
 <!--- -->
 **Specific passing criteria are at the discretion of each course instructor.**
 <!--- -->
-
-**For the core programming sequence (CS 124, CS 128, CS 225) you must attempt
-the proficiency exams in order.**
-Results are available immediately for the CS 124 and CS 128 exams, so you'll
-know whether you can continue with the sequence.
-We will not grant proficiency credit for exams taken out of sequence.
 
 
 
