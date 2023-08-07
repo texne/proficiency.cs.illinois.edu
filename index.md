@@ -40,6 +40,8 @@ our computer-based testing facility (the CBTF) between August 14th and 25th.   T
    * Plan on a 1-2 day delay for us to get you onto the roster(s) for your chosen exam(s).   
    * Sign up for a specific test time on PrairieTest via [the CBTF's website](https://cbtf.engr.illinois.edu/).
 
+To check if you have been added to the roster, go to [the CBTF's website](https://cbtf.engr.illinois.edu/) and look on PrairieTest.   The delay is somewhat variable, since it depends on when we next check the sign-up form.
+
 Yes, this is a bit clumsy.   We're working around some technical issues beyond our control.
 
 It's ok to fill out [this form](https://forms.illinois.edu/sec/1454078509)
