@@ -16,9 +16,9 @@ courses, you may receive credit and satisfy prerequisites by taking a
 
   * Fall proficiency exams are held during freshman orientation week.
   
-   * Spring proficiency exams are held the week before classes start in January.   
+   * Spring proficiency exams are late in the week preceding the start of classes and/or over the weekend before classes start.   
   
-   * In both fall and spring, there are also additional dates during the first week of classes.
+   * In both fall and spring, there are also additional dates early in the first week of classes.
 
 <!--- -->
 It is best to take each exam at the earliest date that works for you, so that you can easily rework your class schedule and get caught up if you pass the exam.    The exams for the three core programming courses (CS 124, CS 128, CS 225) must be taken in order.  The first two exams (CS 124 and CS 128) are autograded, so you will know immediately whether you have passed and should consider attempting the next exam in the sequence.
