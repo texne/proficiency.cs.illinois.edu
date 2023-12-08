@@ -34,7 +34,7 @@ Detailed information about each exam (e.g. dates) is typically posted several we
 ### <a name="next" class="anchor"></a> Next Proficiency Exam Dates and Times
 
 Spring 2024 proficiency exams will be held in-person at
-our computer-based testing facility (the CBTF) tentatively on several dates between 11 and 17 January.   The sign-up process is as follows:   
+our computer-based testing facility (the CBTF) tentatively on January 11, 12, 14, and 16.  Sign-up forms will appear a couple weeks before these dates.   The sign-up process will be as follows:   
 
    * Use [form TBD] to tell us which exams you plan to take.  
    * Plan on a 1-2 day delay for us to get you onto the roster(s) for your chosen exam(s).   
