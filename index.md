@@ -143,10 +143,7 @@ This restriction applies regardless of how the proficiency exam is given.
 course in the same topic area.**
 <!--- -->
 For example, you may not receive proficiency credit for CS 173 if you have already
-taken CS 374, since it is in the same area as CS 173.  Similarly, you may not receive proficiency credit for CS 124 if you
-have already taken CS 128.
-<!--- -->
-In this situation, you may be required to substitute other
+taken CS 374, since it is in the same area as CS 173.    If you arrive with transfer credit that does not align properly with our course sequence, you can normally use the proficiency exams to fill in missing credit.   However, if you have credit for courses beyond CS 225 or take proficiency exams out of order, you may be required to substitute other
 later courses to fulfill your degree requirements.   Consult your departmental
 advisor about whether to take the proficiency exam to verify your knowledge, even
 though you can't get credit, and 
