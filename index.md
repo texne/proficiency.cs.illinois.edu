@@ -34,7 +34,16 @@ Detailed information about each exam (e.g. dates) is typically posted several we
 ### <a name="next" class="anchor"></a> Next Proficiency Exam Dates and Times
 
 Spring 2024 proficiency exams will be held in-person at
-our computer-based testing facility (the CBTF) on January 11, 12, 14, and 16.  The sign-up process is as follows:   
+our computer-based testing facility (the CBTF) on January 11, 12, 14, and 16.  To sign up, use the appropriate self-enrollment link(s) and then sign up for a specific test time on PrairieTest via [the CBTF's website](https://cbtf.engr.illinois.edu/).
+
+   * [CS 101](https://us.prairietest.com/pt/student/course/2562/enroll/547053004636)
+   * [CS 105](https://us.prairietest.com/pt/student/course/2563/enroll/903445580513)
+   * [CS 124](https://us.prairietest.com/pt/student/course/2564/enroll/108780234646)
+   * [CS 128](https://us.prairietest.com/pt/student/course/2565/enroll/475895346291)
+   * [CS 173](https://us.prairietest.com/pt/student/course/2566/enroll/608584169502)
+   * [CS 225](https://us.prairietest.com/pt/student/course/2567/enroll/653984236399)
+
+The self-enrollment option was just installed.   If you have trouble making it work, the backup sign-up process is as follows:   
 
    * Use [this form](https://forms.illinois.edu/sec/366147780) to tell us which exams you plan to take.  
    * Plan on a 1-2 day delay for us to get you onto the roster(s) for your chosen exam(s).   
