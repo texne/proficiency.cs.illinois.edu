@@ -43,18 +43,16 @@ our computer-based testing facility (the CBTF) on January 11, 12, 14, and 16.  T
    * [CS 173](https://us.prairietest.com/pt/student/course/2566/enroll/608584169502)
    * [CS 225](https://us.prairietest.com/pt/student/course/2567/enroll/653984236399)
 
-The self-enrollment option was just installed.   If you have trouble making it work, the backup sign-up process is as follows:   
+
+### <a name="deleteme" class="anchor"></a> Old/backup sign-up method
+
+If you are unable to use the above enrollment links, the old sign-up form is still live as a backup.   However, it's not recommended.   We're checking it only every couple days, so it may significantly delay your ability to sign up for a CBTF time.
 
    * Use [this form](https://forms.illinois.edu/sec/366147780) to tell us which exams you plan to take.  
-   * Plan on a 1-2 day delay for us to get you onto the roster(s) for your chosen exam(s).   
+   * Wait for us to get you onto the roster(s) for your chosen exam(s).   
    * Sign up for a specific test time on PrairieTest via [the CBTF's website](https://cbtf.engr.illinois.edu/).
 
-To check if you have been added to the roster, go to [the CBTF's website](https://cbtf.engr.illinois.edu/) and look on PrairieTest.   The delay is somewhat variable, since it depends on when we next check the sign-up form.
-
-Yes, this is a bit clumsy.   We're working around some technical issues beyond our control.
-
-It's ok to fill out [this form](https://forms.illinois.edu/sec/366147780)
-a second time if you need to revise your selection, e.g. add a later exam because you passed an  earlier one.   However, to avoid delays, please give us the full list of exams you believe you are likely to take.   For example, if you are confident you can pass the CS 124 proficiency and think it's likely you can also pass the CS 128 exam, tell us that you plan to take both.    
+To check if you have been added to the roster, go to [the CBTF's website](https://cbtf.engr.illinois.edu/) and look on PrairieTest.   
 
 <!-- -->
 
