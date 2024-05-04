@@ -33,26 +33,11 @@ Detailed information about each exam (e.g. dates) is typically posted several we
 
 ### <a name="next" class="anchor"></a> Next Proficiency Exam Dates and Times
 
-Spring 2024 proficiency exams will be held in-person at
-our computer-based testing facility (the CBTF) on January 11, 12, 14, and 16.  To sign up, use the appropriate self-enrollment link(s) and then sign up for a specific test time on PrairieTest via [the CBTF's website](https://cbtf.engr.illinois.edu/).
+Fall 2024 proficiency exams will be held in-person at
+our computer-based testing facility (the CBTF) during registration week and the first day off classes.  Exact dates will be posted in August. To sign up, use the appropriate self-enrollment link(s) below and then sign up for a specific test time on PrairieTest via [the CBTF's website](https://cbtf.engr.illinois.edu/).
 
-   * [CS 101](https://us.prairietest.com/pt/student/course/2562/enroll/547053004636)
-   * [CS 105](https://us.prairietest.com/pt/student/course/2563/enroll/903445580513)
-   * [CS 124](https://us.prairietest.com/pt/student/course/2564/enroll/108780234646)
-   * [CS 128](https://us.prairietest.com/pt/student/course/2565/enroll/475895346291)
-   * [CS 173](https://us.prairietest.com/pt/student/course/2566/enroll/608584169502)
-   * [CS 225](https://us.prairietest.com/pt/student/course/2567/enroll/653984236399)
+   * links will be posted in August
 
-
-### <a name="deleteme" class="anchor"></a> ~~Old/backup sign-up method~~
-
-~~If you are unable to use the above enrollment links, the old sign-up form is still live as a backup.   However, it's not recommended.   We're checking it only every couple days, so it may significantly delay your ability to sign up for a CBTF time.~~
-
-   * ~~Use [this form](https://forms.illinois.edu/sec/366147780) to tell us which exams you plan to take.~~  
-   * ~~Wait for us to get you onto the roster(s) for your chosen exam(s).~~ 
-   * ~~Sign up for a specific test time on PrairieTest via [the CBTF's website](https://cbtf.engr.illinois.edu/).~~
-
-~~To check if you have been added to the roster, go to [the CBTF's website](https://cbtf.engr.illinois.edu/) and look on PrairieTest.~~   
 
 <!-- -->
 
