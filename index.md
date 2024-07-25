@@ -37,6 +37,11 @@ Fall 2024 proficiency exams will be held in-person at
 our computer-based testing facility (the CBTF) Friday August 23rd through Tuesday August 27th. To sign up, use the appropriate self-enrollment link(s) below and then sign up for a specific test time on PrairieTest via [the CBTF's website](https://cbtf.engr.illinois.edu/).
 
    * [CS101](https://us.prairietest.com/pt/student/course/4183/enroll/105661768988)
+   * [CS 105](https://us.prairietest.com/pt/student/course/4185/enroll/914455089600)
+   * [CS 124](https://us.prairietest.com/pt/student/course/4187/enroll/141847900181)
+   * [CS 128](https://us.prairietest.com/pt/student/course/4190/enroll/203544144956)
+   * [CS 173](https://us.prairietest.com/pt/student/course/4192/enroll/945696242247)
+   * [CS 255](https://us.prairietest.com/pt/student/course/4195/enroll/357028378791)
 
 Also check below for any additional registration information specific to your course, and re-check close to the exam dates.
 
