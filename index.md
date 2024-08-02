@@ -45,7 +45,6 @@ our computer-based testing facility (the CBTF) Friday August 23rd through Tuesda
 
 Also check below for any additional registration and practice information specific to your course, and re-check close to the exam dates.
 
-
 <!-- -->
 
 ### <a name="dres" class="anchor"></a> Disability Accommodations
@@ -81,9 +80,6 @@ have one.
 **If you show up late or without proper identification, you will not be able to
 complete the exam.**
 
-
-
-
 ### <a name="results" class="anchor"></a> Receiving Your Results
 
 The CS 124 and 128 exams are entirely autograded, so
@@ -109,7 +105,6 @@ try to stay caught up with the course you are hoping to add.
 
 It may take several weeks for proficiency credit to appear on your official transcript.
 However you can adjust your schedule right away.   Only passing results appear on your transcript.   
-
 
 ### <a name="restrictions" class="anchor"></a> General Restrictions
 
@@ -178,8 +173,6 @@ Please review the information below for any proficiency exams you plan to take.
 {% include_relative _includes/cs105.md %}
 
 {% include_relative _includes/cs124.md %}
-
-{% include_relative _includes/cs125.md %}
 
 {% include_relative _includes/cs128.md %}
 
