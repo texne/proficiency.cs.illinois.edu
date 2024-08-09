@@ -41,7 +41,7 @@ our computer-based testing facility (the CBTF) Friday August 23rd through Tuesda
    * [CS 124](https://us.prairietest.com/pt/student/course/4187/enroll/141847900181)
    * [CS 128](https://us.prairietest.com/pt/student/course/4190/enroll/203544144956)
    * [CS 173](https://us.prairietest.com/pt/student/course/4192/enroll/945696242247)
-   * [CS 255](https://us.prairietest.com/pt/student/course/4195/enroll/357028378791)
+   * [CS 225](https://us.prairietest.com/pt/student/course/4195/enroll/357028378791)
 
 Also check below for any additional registration and practice information specific to your course, and re-check close to the exam dates.
 
