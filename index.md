@@ -33,15 +33,15 @@ Detailed information about each exam (e.g. dates) is typically posted several we
 
 ### <a name="next" class="anchor"></a> Next Proficiency Exam Dates and Times
 
-Spring 2025 proficiency exams will be held in-person at
-our computer-based testing facility (the CBTF) around the start of spring classes.   The dates will be the Friday and Sunday before classes start (Jan 17th and 18th), and the Tuesday and Wednesday of the first week of classes (Jan 21st and 22nd).  To sign up, use the appropriate self-enrollment link(s) which will appear below and then sign up for a specific test time on PrairieTest via [the CBTF's website](https://cbtf.engr.illinois.edu/).
+Fall 2025 proficiency exams will be held in-person at
+our computer-based testing facility (the CBTF) around the start of fall classes.  Dates will be posted in late summer. To sign up, use the appropriate self-enrollment link(s) which will appear below and then sign up for a specific test time on PrairieTest via [the CBTF's website](https://cbtf.engr.illinois.edu/).
 
-   * [CS 101](https://us.prairietest.com/pt/student/course/6717/enroll/608883219990)
-   * [CS 105](https://us.prairietest.com/pt/student/course/6718/enroll/173571058685)
-   * [CS 124](https://us.prairietest.com/pt/student/course/6719/enroll/253326685908)
-   * [CS 128](https://us.prairietest.com/pt/student/course/6720/enroll/425420837459)
-   * [CS 173](https://us.prairietest.com/pt/student/course/6721/enroll/343939366408)
-   * [CS 225](https://us.prairietest.com/pt/student/course/6722/enroll/685791380663)
+   * CS 101
+   * CS 105
+   * CS 124
+   * CS 128
+   * CS 173
+   * CS 225
 
 Also check below for any additional registration and practice information specific to your course, and re-check close to the exam dates.
 
