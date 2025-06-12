@@ -34,7 +34,9 @@ Detailed information about each exam (e.g. dates) is typically posted several we
 ### <a name="next" class="anchor"></a> Next Proficiency Exam Dates and Times
 
 Fall 2025 proficiency exams will be held in-person at
-our computer-based testing facility (the CBTF) around the start of fall classes.  Dates will be posted in late summer. To sign up, use the appropriate self-enrollment link(s) which will appear below and then sign up for a specific test time on PrairieTest via [the CBTF's website](https://cbtf.engr.illinois.edu/).
+our computer-based testing facility (the CBTF) on August 22, 24, 25, and 26.  
+When self-enrollment links appear below (early August), you will be able to use the appropriate link to 
+sign up for a specific test time on PrairieTest via [the CBTF's website](https://cbtf.engr.illinois.edu/).
 
    * CS 101
    * CS 105
