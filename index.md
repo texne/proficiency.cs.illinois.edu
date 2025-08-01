@@ -37,8 +37,8 @@ Fall 2025 proficiency exams will be held in-person at
 our computer-based testing facility (the CBTF) on August 22, 24, 25, and 26.  When self-enrollment links appear below (early August), you will be able to use the appropriate link to 
 sign up for a specific test time and CBTF location on PrairieTest.
 
-   * CS 101
-   * CS 105
+   * [CS 101](https://us.prairietest.com/pt/student/course/9357/enroll/318761565744)
+   * [CS 105](https://us.prairietest.com/pt/student/course/9358/enroll/729492383735)
    * CS 124
    * CS 128
    * CS 173
