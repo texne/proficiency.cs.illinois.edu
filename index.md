@@ -39,10 +39,10 @@ sign up for a specific test time and CBTF location on PrairieTest.
 
    * [CS 101](https://us.prairietest.com/pt/student/course/9357/enroll/318761565744)
    * [CS 105](https://us.prairietest.com/pt/student/course/9358/enroll/729492383735)
-   * CS 124
-   * CS 128
-   * CS 173
-   * CS 225
+   * [CS 124](https://us.prairietest.com/pt/student/course/9359/enroll/410061169707)
+   * [CS 128](https://us.prairietest.com/pt/student/course/9360/enroll/911802316385)
+   * [CS 173](https://us.prairietest.com/pt/student/course/9361/enroll/850767308096)
+   * [CS 225](https://us.prairietest.com/pt/student/course/9362/enroll/520420938250)
 
 Also check below for any additional registration and practice information specific to your course, and re-check close to the exam dates.
 
