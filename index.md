@@ -33,16 +33,14 @@ Detailed information about each exam (e.g. dates) is typically posted several we
 
 ### <a name="next" class="anchor"></a> Next Proficiency Exam Dates and Times
 
-Fall 2025 proficiency exams will be held in-person at
-our computer-based testing facility (the CBTF) on August 22, 24, 25, and 26.  When self-enrollment links appear below (early August), you will be able to use the appropriate link to 
+The Spring 2026 proficiency exams will be held in-person at
+our computer-based testing facility (the CBTF), and are tentatively scheduled for January 16-18 and 20-21.
+When self-enrollment links appear below (early January), you will be able to use the appropriate link to 
 sign up for a specific test time and CBTF location on PrairieTest.
 
-   * [CS 101](https://us.prairietest.com/pt/student/course/9357/enroll/318761565744)
-   * [CS 105](https://us.prairietest.com/pt/student/course/9358/enroll/729492383735)
-   * [CS 124](https://us.prairietest.com/pt/student/course/9359/enroll/410061169707)
-   * [CS 128](https://us.prairietest.com/pt/student/course/9360/enroll/911802316385)
-   * [CS 173](https://us.prairietest.com/pt/student/course/9361/enroll/850767308096)
-   * [CS 225](https://us.prairietest.com/pt/student/course/9362/enroll/520420938250)
+   * CS 101 link
+   * etc
+
 
 Also check below for any additional registration and practice information specific to your course, and re-check close to the exam dates.
 
