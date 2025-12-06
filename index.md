@@ -39,7 +39,11 @@ When self-enrollment links appear below (early January), you will be able to use
 sign up for a specific test time and CBTF location on PrairieTest.
 
    * [CS 101](https://us.prairietest.com/pt/student/course/13680/enroll/731324253524)
-   * etc
+   * [CS 105](https://us.prairietest.com/pt/student/course/13681/enroll/780952518573)
+   * [CS 124](https://us.prairietest.com/pt/student/course/13682/enroll/101976261008)
+   * [CS 128](https://us.prairietest.com/pt/student/course/13683/enroll/065019262918)
+   * [CS 173](https://us.prairietest.com/pt/student/course/13684/enroll/094414473992)
+   * [CS 225](https://us.prairietest.com/pt/student/course/13685/enroll/030751601272)
 
 
 Also check below for any additional registration and practice information specific to your course, and re-check close to the exam dates.
