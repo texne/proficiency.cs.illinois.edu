@@ -38,7 +38,7 @@ our computer-based testing facility ([the CBTF](https://cbtf.engr.illinois.edu/)
 When self-enrollment links appear below (early January), you will be able to use the appropriate link to 
 sign up for a specific test time and CBTF location on PrairieTest.
 
-   * CS 101 link
+   * [CS 101](https://us.prairietest.com/pt/student/course/13680/enroll/731324253524)
    * etc
 
 
