@@ -34,7 +34,7 @@ Detailed information about each exam (e.g. dates) is typically posted several we
 ### <a name="next" class="anchor"></a> Next Proficiency Exam Dates and Times
 
 The Fall 2026 proficiency exams will be held in-person at
-our computer-based testing facility ([the CBTF](https://cbtf.engr.illinois.edu/) from Friday August 21st through Tuesday August 25th (including over the weekend).  Use the appropriate link to 
+our computer-based testing facility ([the CBTF](https://cbtf.engr.illinois.edu/) from Friday August 21st through Tuesday August 25th (including over the weekend).  Use the appropriate link below to 
 sign up for a specific test time and CBTF location on PrairieTest.
 
    * [CS 101](https://us.prairietest.com/pt/student/course/20075/enroll/101972122224)
