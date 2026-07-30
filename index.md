@@ -26,7 +26,7 @@ It is best to take each exam at the earliest date that works for you, so that yo
 <!--- -->
 <p class="alert alert-warning" markdown="1">
 <!--- -->
-Detailed information about each exam (e.g. dates) is typically posted several weeks before the start of each term.   Sign-up details usually appear a week or two before the first exam date.   Watch this page for the latest information.
+Detailed information about each exam (e.g. dates) is typically posted several weeks before the start of each term.   Sign-up details usually appear a week or two before the first exam date.   Watch this page for the latest information.   We will have plenty of seats available so do not stress about needing to sign up very early.
 </p>
 
 
