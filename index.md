@@ -41,7 +41,7 @@ sign up for a specific test time and CBTF location on PrairieTest.
    * [CS 105](https://us.prairietest.com/pt/student/course/20076/enroll/759748915708)
    * [CS 124](https://us.prairietest.com/pt/student/course/20077/enroll/366241823647)
    * [CS 128](https://us.prairietest.com/pt/student/course/20078/enroll/387098934310)
-   * [CS 172](https://us.prairietest.com/pt/student/course/20079/enroll/992625197447)
+   * [CS 173](https://us.prairietest.com/pt/student/course/20079/enroll/992625197447)
    * [CS 225](https://us.prairietest.com/pt/student/course/20080/enroll/314303250310)
 
 
